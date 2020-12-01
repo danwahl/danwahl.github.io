@@ -1,0 +1,25 @@
+title: danwahl.net
+author: Dan Wahl
+email: hi@danwahl.net
+description: "making things (better)"
+baseurl: ""
+url: "https://danwahl.net"
+github_username: danwahl
+
+google_analytics:    UA-88950099-1
+
+permalink: /blog/:title
+theme_color: "#339966"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - github-pages
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jemoji
+
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"

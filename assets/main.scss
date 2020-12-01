@@ -1,0 +1,90 @@
+---
+---
+
+$background-color: #f5f5f5;
+$brand-color: {{ site.theme_color }};
+
+$grey-color: #666;
+
+$content-width: 960px;
+
+@import "minima";
+
+a {
+    &:hover {
+        color: $brand-color;
+        text-decoration: none;
+    }
+}
+
+article, .home {
+    padding: 20px;
+    background-color: $background-color;
+
+    header {
+        color: $text-color;
+    }
+}
+
+body {
+    background-color: $brand-color;
+}
+
+.center-image {
+    max-width: 100%;
+    display:block;
+    margin:auto;
+}
+
+code, pre {
+    background-color: #eee;
+}
+
+header, footer, .footer-col-wrapper, .site-title {
+    color: $background-color;
+
+    &:visited {
+        color: $background-color;
+    }
+
+    a {
+        color: $background-color;
+
+        &:hover {
+            color: $background-color;
+            text-decoration: underline;
+        }
+
+        &:visited {
+            color: $background-color;
+        }
+    }
+}
+
+.highlight {
+    .highlighter-rouge & {
+        background: #eee;
+    }
+}
+
+#markdown-toc{
+    list-style-type: none;
+}
+
+.site-nav {
+    background-color: $brand-color;
+
+    .page-link {
+        color: $background-color;
+    }
+
+    .menu-icon {
+        > svg {
+            fill: $background-color;
+        }
+    }
+}
+
+.svg-icon {
+    fill: $background-color;
+}
