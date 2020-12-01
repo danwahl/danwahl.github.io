@@ -18,7 +18,7 @@ And here are some other fun robots I've worked on:
 -   [ESCHER falling at the DRC](https://www.youtube.com/watch?v=g0TaYhjpOfo&t=0m22s) [2015]
 -   [Protector "follow me" mode initial test](https://www.youtube.com/watch?v=DekTC6luAhA) [2013]
 
-You can check out my resume [here](<{{ site.baseurl }}/assets/about/drwahl-resume.pdf>).
+You can check out my resume [here](<{{ site.baseurl }}/assets/images/about/drwahl-resume.pdf>).
 
 ### Other Things
 
@@ -28,4 +28,4 @@ Outside of work I like being outside, reading, biking, science, and making stuff
 
 [hi at danwahl dot net](mailto:hi@danwahl.net)
 
-[![no phsihing plz](<{{ site.baseurl }}/assets/about/ssr-win.jpg> "no phsihing plz"){: .center-image }](<{{ site.baseurl }}/assets/about/ssr-win.jpg>)
+[![no phsihing plz](<{{ site.baseurl }}/assets/images/about/ssr-win.jpg> "no phsihing plz"){: .center-image }](<{{ site.baseurl }}/assets/images/about/ssr-win.jpg>)
