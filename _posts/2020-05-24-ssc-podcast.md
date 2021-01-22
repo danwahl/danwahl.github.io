@@ -4,6 +4,8 @@ title: SSC Podcast (and Unsong Audiobook)
 excerpt: Automated readings of Slate Star Codex and Unsong, using Amazon Polly.
 ---
 
+**Edit 2021-01-21: Scott Alexander just launched his new blog [Astral Codex Ten](https://astralcodexten.substack.com/)! See [below]({{ site.baseurl }}/blog/ssc-podcast#ac10-podcast) for info on the corresponding podcast.**
+
 I've been a fan of Scott Alexander's [Slate Star Codex](https://slatestarcodex.com/) (SSC) for several years, and have already written [more](/blog/slate-star-codex) [than](/blog/lightfoot-prospiracy) [a few](/blog/chicago-budget) posts referencing his work. Other readers have been [similarly](https://guzey.com/favorite/slate-star-codex/) [inspired](https://www.lesswrong.com/posts/vwqLfDfsHmiavFAGP/the-library-of-scott-alexandria), and a few have even taken the time to produce [audio versions](https://sscpodcast.libsyn.com/) of his more recent entries. As an avid podcast listener, I've found these to be an extremely useful way to keep up-to-date with SSC in the context of my regular media workflow.
 
 Unfortunately, audio coverage for older posts is somewhat sparse, and the same is true of his ([wonderful](https://www.scottaaronson.com/blog/?p=3259)) serial novel [Unsong](http://unsongbook.com/), with one [ongoing effort](https://unsong.libsyn.com/) currently only about halfway finished. That's why, late last year, I started a project to convert his entire back catalog into audio using Amazon Polly.
@@ -39,3 +41,17 @@ Note: there are still a few bugs that cause occasional issues, mostly related to
 Using a fork of the SSC Podcast repo (with a few minor modifications), I also generated an audiobook version of Unsong. Although there are some predictable issues with the Names of God, and Uriel occasionally speaks in acronyms, I think it turned out nicely overall. The GitHub repo is [here](https://github.com/danwahl/unsong-audiobook), and you can subscribe on your podcast app using the following link:
 
 [https://danwahl.net/unsong-audiobook/feed.xml](https://danwahl.net/unsong-audiobook/feed.xml)
+
+# AC10 Podcast
+
+[![ac10-podcast]({{ site.baseurl }}/ac10-podcast/img/ac10-podcast.png "ac10-podcast"){: .center-image }]({{ site.baseurl }}/ac10-podcast/)
+
+<cite>Just some quick artwork I made for the podcast feed.</cite>
+
+After a *long* absence, Scott Alexander has finally returned with his new blog, [Astral Codex Ten](https://astralcodexten.substack.com/). Between this and the Biden inauguration, I am having a **good week**. And so it is with pleasure that I present the corresponding [AC10 Podcast](https://danwahl.net/ac10-podcast/).
+
+So far everything seems to be working, but since I had to port the parsing script from Wordpress to Substack html, I expect things to be a little bumpy at first. Please [create an issue on GitHub](https://github.com/danwahl/ac10-podcast/issues) if you notice any problems.
+
+Side note: why AC10 and not [ACT](https://astralcodexten.substack.com/p/still-alive/comments#comment-1095963) or [ACX](https://astralcodexten.substack.com/p/youre-probably-wondering-why-ive/comments#comment-1095780)? I'm not sure about the preferred acronym, but given the digital nature of the narrator, I thought it best to stick to 1s and 0s.
+
+[https://danwahl.net/ac10-podcast/feed.xml](https://danwahl.net/ac10-podcast/feed.xml)
