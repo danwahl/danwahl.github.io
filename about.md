@@ -14,11 +14,12 @@ Hi, I'm Dan. I'm a robotics engineer, and one of the software developers for the
 
 And here are some other fun robots I've worked on:
 
+-   [Outrider promotional video](https://vimeo.com/391795667) [2020]
 -   [Haptic tactor for prosthetic touch feedback](https://www.youtube.com/watch?v=genr9mGC9NQ) [2016]
 -   [ESCHER falling at the DRC](https://www.youtube.com/watch?v=g0TaYhjpOfo&t=0m22s) [2015]
 -   [Protector "follow me" mode initial test](https://www.youtube.com/watch?v=DekTC6luAhA) [2013]
 
-You can check out my resume [here](<{{ site.baseurl }}/assets/images/about/drwahl-resume.pdf>).
+You can check out my resume [here](<{{ site.baseurl }}/assets/images/about/drwahl-resume.pdf>) [2021].
 
 ### Other Things
 
