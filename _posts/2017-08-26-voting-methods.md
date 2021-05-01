@@ -100,7 +100,7 @@ The [Schulze method](https://en.wikipedia.org/wiki/Schulze_method) uses a [direc
 
 From there, a directed graph can be drawn, using the strong pairs to determine value and direction of the vertices.
 
-[![directed graph]({{ site.baseurl }}/assets/voting-methods/schulze-graph.png "directed graph"){: .center-image }]({{ site.baseurl }}/assets/voting-methods/schulze-graph.png)
+[![directed graph]({{ site.baseurl }}/assets/images/voting-methods/schulze-graph.png "directed graph"){: .center-image }]({{ site.baseurl }}/assets/images/voting-methods/schulze-graph.png)
 
 Determining the winner of each potential head-to-head matchup is as easy as tracing the various paths between the two nodes on the network. The direction of the path with the largest minimum connection strength decides the winner. For example, *JustDesign Cooperative, LLC* beats *The Social Justice Design Cooperative, LLC* with a score of `5` (tracing the path through *JustDesign LLC* leads to a higher minimum score than the direct route). The strengths of the strongest paths are shown in the table below.
 
