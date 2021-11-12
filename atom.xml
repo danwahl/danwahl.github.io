@@ -16,7 +16,7 @@ layout: null
   </author>
 
   {% for post in site.posts %}
-    {% if post.draft %}
+    {% if post.hidden %}
       {% continue %}
     {% endif %}
     <entry>
