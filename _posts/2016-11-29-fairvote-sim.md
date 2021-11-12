@@ -3,6 +3,7 @@ layout: post
 title: FairVote Simulation
 excerpt: A simulation of ranked preference voting with 2016 presidential election data.
 redirect_from: /fairvote-sim
+hidden: true
 ---
 
 For the [fifth time](https://en.wikipedia.org/wiki/United_States_presidential_elections_in_which_the_winner_lost_the_popular_vote) in American history, and the second time in the last 16 years, the presidential candidate receiving the most votes will not take office due to ~~a rounding error~~ the Electoral College. But one of the few positive things to come out of the 2016 election has been a renewed focus on voting reform. Several notable plans have been offered to fix the EC, from [undermining](https://trumptraders.org/trade/) [it](http://www.nationalpopularvote.com/) at a state level, to [abolishing it](http://www.cnn.com/2016/11/15/politics/barbara-boxer-electoral-college-donald-trump-2016-election/) altogether, and even (God forbid) [using it to its intended purpose](http://www.hamiltonelectors.com/).

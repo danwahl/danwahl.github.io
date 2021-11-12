@@ -3,6 +3,7 @@ layout: post
 title: Stochastic Altruism 2016
 excerpt: Updated stochastic altruism calculations for 2016 year-end giving.
 redirect_from: /stochastic-altruism-2016
+hidden: true
 ---
 
 [Earlier this year](stochastic-altruism) I took GiveWell's cost effectiveness estimates and ran a Monte Carlo simulation, treating the GiveWell employee rankings like independent random variables, and employing techniques from Modern Portfolio Theory to find "optimum" charity portfolios. Although I've been planning to use this method to inform my year-end giving, I wanted to wait to see if there were any substantive updates in GiveWell's December rankings, and I'm glad I did.

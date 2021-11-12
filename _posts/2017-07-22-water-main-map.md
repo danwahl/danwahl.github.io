@@ -3,6 +3,7 @@ layout: post
 title: Chicago Water Main Replacement Map
 excerpt: A map of recent water main replacements in the city of Chicago.
 redirect_from: /water-main-map
+hidden: true
 ---
 
 **Edit 2017-08-26: For the second time this summer, the city's IT department has blocked my data collection, and so the map is currently out of date. I plan on revisiting this soon.**

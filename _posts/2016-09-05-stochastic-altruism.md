@@ -3,6 +3,7 @@ layout: post
 title: Stochastic Altruism
 excerpt: An analysis of GiveWell's cost effectiveness model using techniques from modern portfolio theory.
 redirect_from: /stochastic-altruism
+hidden: true
 ---
 
 The idea of using expected value estimates to to compare effective charitable interventions is not new. A few notable examples include Holden Karnofsky's [skeptical post](http://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/) in 2011, and detailed responses by [Gregory Lewis](http://effective-altruism.com/ea/bb/expected_value_estimates_you_can_take_somewhat/) in 2014 and [Michael Dickens](http://effective-altruism.com/ea/vo/expected_value_estimates_you_can_maybe_take/) earlier this year. Even GiveWell, despite (repeatedly) cautioning against taking the approach too literally, maintains a [cost effectiveness model](http://www.givewell.org/international/technical/criteria/cost-effectiveness/cost-effectiveness-models), using staff input to compute a median effectiveness for each of its recommended charities.

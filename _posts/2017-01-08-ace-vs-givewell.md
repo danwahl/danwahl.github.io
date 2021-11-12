@@ -3,6 +3,7 @@ layout: post
 title: ACE vs. GiveWell
 excerpt: The final showdown.
 redirect_from: /ace-vs-givewell
+hidden: true
 ---
 
 **Edit 2018-04-27: This does not represent my current thinking on cross-species cost effectiveness, but I'm leaving it up for reference.**

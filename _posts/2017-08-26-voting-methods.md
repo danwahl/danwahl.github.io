@@ -3,6 +3,7 @@ layout: post
 title: What's in a name?
 excerpt: Using popular voting methods to determine the name of a new design cooperative.
 redirect_from: /voting-methods
+hidden: true
 ---
 
 I've recently been working with some like-minded engineers, architects, and designers to create an environmental and social justice design cooperative, tentatively called [JustDesign](http://justdesigncoop.org/) (both a core value and a call to action). While we've gotten a [head start](http://interactive.wttw.com/my-neighborhood/pilsen/pilsen-environmentalists-organize-protect-neighbors-lead-water) engaging with our local Chicago community, a significant portion of our early efforts have been spent on internal engagement. Rallying 10 members across four different timezones, each with their own set of professional and family responsibilities, for what amounts to volunteer work (at the moment), is no easy task, especially when trying to simultaneously learn about and adhere to the [cooperative principles](http://justdesigncoop.org/a-third-way) of democratic self control.

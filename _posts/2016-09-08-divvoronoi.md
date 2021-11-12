@@ -3,6 +3,7 @@ layout: post
 title: Divvy Voronoi Diagram
 excerpt: An improved (and somewhat usable!) Divvy station map.
 redirect_from: /divvoronoi
+hidden: true
 ---
 
 **Edit 2018-04-27: This isn't currently working, likely because something changed with Divvy's API. I'll fix it when I get a chance.**
