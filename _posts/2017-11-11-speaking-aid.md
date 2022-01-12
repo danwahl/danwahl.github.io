@@ -17,11 +17,11 @@ After searching around for a usable text-to-speech interface, and finding a lot 
 
 Just type into the box and press enter. The text will be read aloud and stored in the space below, where it can be clicked and read again.
 
-<iframe src="https://cdn.rawgit.com/danwahl/b5627fb24c137e8e8a8c7e3703c2e5af/raw/b223ca981e530cddade234b932df972ba24cbf42/index.html" marginwidth="0" marginheight="0" width="100%" height="400" scrolling="yes"></iframe>
+<iframe src="https://bl.ocks.org/danwahl/raw/b5627fb24c137e8e8a8c7e3703c2e5af/" marginwidth="0" marginheight="0" width="100%" height="400" scrolling="yes"></iframe>
 
 The background will turn <span style="color: green;">green</span> to indicate that it's speaking. Check your computer/phone audio settings if you don't hear anything.
 
-Bookmarkable version [here](https://cdn.rawgit.com/danwahl/b5627fb24c137e8e8a8c7e3703c2e5af/raw/b223ca981e530cddade234b932df972ba24cbf42/index.html), source on GitHub [here](https://gist.github.com/danwahl/b5627fb24c137e8e8a8c7e3703c2e5af).
+Bookmarkable version [here](https://bl.ocks.org/danwahl/raw/b5627fb24c137e8e8a8c7e3703c2e5af/), source on GitHub [here](https://gist.github.com/danwahl/b5627fb24c137e8e8a8c7e3703c2e5af).
 
 
 # Some notes

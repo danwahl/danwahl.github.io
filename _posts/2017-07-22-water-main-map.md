@@ -48,9 +48,9 @@ Finally, in what might be a tacit acknowledgement of the dangers posed by water 
 
 To generate a map, I setup a script (using [Selenium](https://github.com/SeleniumHQ/selenium)) to automatically sign up for all job code permutations, then another to monitor my inbox for updates. I then used [Folium](https://github.com/python-visualization/folium) to generate this map, which is updated nightly.
 
-<iframe src="https://cdn.rawgit.com/danwahl/chicago-lead/master/map.html" marginwidth="0" marginheight="0" width="100%" height="400" scrolling="no"></iframe>
+<iframe src="https://raw.githack.com/danwahl/chicago-lead/master/map.html" marginwidth="0" marginheight="0" width="100%" height="400" scrolling="no"></iframe>
 
-Bookmarkable version [here](https://cdn.rawgit.com/danwahl/chicago-lead/master/map.html), source on GitHub [here](https://github.com/danwahl/chicago-lead).
+Bookmarkable version [here](https://raw.githack.com/danwahl/chicago-lead/master/map.html), source on GitHub [here](https://github.com/danwahl/chicago-lead).
 
 # Future work
 

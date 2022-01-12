@@ -28,9 +28,9 @@ I started with Google Maps as the base, and added the D3.js [Voronoi API](http:/
 
 # The prototype
 
-<iframe src="https://cdn.rawgit.com/danwahl/45015b04f68d28812094/raw/ccf39050a614d45205b1e20c8028d969fdd86779/" marginwidth="0" marginheight="0" width="100%" height="400" scrolling="no"></iframe>
+<iframe src="https://bl.ocks.org/danwahl/raw/45015b04f68d28812094/" marginwidth="0" marginheight="0" width="100%" height="400" scrolling="no"></iframe>
 
-Bookmarkable version [here](https://cdn.rawgit.com/danwahl/45015b04f68d28812094/raw/ccf39050a614d45205b1e20c8028d969fdd86779/), source on GitHub [here](https://gist.github.com/danwahl/45015b04f68d28812094).
+Bookmarkable version [here](https://bl.ocks.org/danwahl/raw/45015b04f68d28812094/), source on GitHub [here](https://gist.github.com/danwahl/45015b04f68d28812094).
 
 # Future improvements
 

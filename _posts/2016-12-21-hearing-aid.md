@@ -17,11 +17,11 @@ He is, however, still pretty sharp, and his eyesight works reasonably well (with
 
 Just click anywhere in the box below and start talking (you'll probably be asked to [enable the microphone](https://support.google.com/chrome/answer/2693767?hl=en) first):
 
-<iframe src="https://cdn.rawgit.com/danwahl/dcc97e392481b93f6368eb8053bb5dd2/raw/46a733b439b6414cfc9019fe5f0df970d03ab97a/index.html" marginwidth="0" marginheight="0" width="100%" height="400" scrolling="yes"></iframe>
+<iframe src="https://bl.ocks.org/danwahl/raw/dcc97e392481b93f6368eb8053bb5dd2/" marginwidth="0" marginheight="0" width="100%" height="400" scrolling="yes"></iframe>
 
 The background will turn <span style="color: red;">red</span> to indicate that it's recording. Another click will pause input so that it's easy record only one side of the conversation.
 
-Bookmarkable version [here](https://cdn.rawgit.com/danwahl/dcc97e392481b93f6368eb8053bb5dd2/raw/46a733b439b6414cfc9019fe5f0df970d03ab97a/index.html), source on GitHub [here](https://gist.github.com/danwahl/dcc97e392481b93f6368eb8053bb5dd2).
+Bookmarkable version [here](https://bl.ocks.org/danwahl/raw/dcc97e392481b93f6368eb8053bb5dd2/), source on GitHub [here](https://gist.github.com/danwahl/dcc97e392481b93f6368eb8053bb5dd2).
 
 # Some notes
 
