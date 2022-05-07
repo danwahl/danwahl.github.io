@@ -38,11 +38,11 @@ This is in part because there's no clear consensus on what "doing the right thin
 
 Even worse, individual humans aren't even aligned with _themselves_. How can I expect someone else to direct an AGI to perform an action that benefits everyone when I'm not even sure which actions _I_ should take to benefit _me_?
 
-I should admit that my "secret" hope is that, against all odds (a  Yudowskian "miracle"), the AGI that we eventually create will simply do Utilitarian thing, and maximize the happiness (and minimize the suffering) of all sentient beings, _regardless of what we ask of it_. But although I have no idea how to model this probability, there are reasons to suspect it might be depressingly low.
+I should admit that my "secret" hope is that, against all odds (a  Yudowskian "miracle"), the AGI that we eventually create will simply do Utilitarian thing, and maximize the happiness (and minimize the suffering) of all sentient beings, _regardless of what we ask of it_ (maybe this _is_ what people mean by "alignment"?). But although I have no idea how to model this probability, there are reasons to suspect it might be depressingly low.
 
 # 3. Orthogonality skepticism
 
-A key pillar of the AI Safety is the [Orthogonality Thesis](https://www.lesswrong.com/tag/orthogonality-thesis), an argument which roughly posits that increases in general intelligence are uncorrelated with the types of goals that intelligent systems could have. If true, it means that, despite my aforementioned hope, we can't rely on sufficiently advanced AI to "do the right thing" (whatever that is) by default.
+A key pillar of the AGI Safety argument is the [Orthogonality Thesis](https://www.lesswrong.com/tag/orthogonality-thesis), which roughly posits that increases in general intelligence are uncorrelated with the types of goals that intelligent systems could have. If true, it means that, despite my aforementioned hope, we can't rely on sufficiently advanced AI to "do the right thing" (whatever that is) by default.
 
 This would be a bummer, but is there a strong reason to believe it's correct? Instead of writing what I planned for this section, I'll instead just link to a great [EA Forum post](https://forum.effectivealtruism.org/posts/kCAcrjvXDt2evMpBz/a-tale-of-2-75-orthogonality-theses) on the topic, which separates the Orthogonality Thesis out into several  theses with increasingly broad claims about the nature of intelligence:
 
@@ -56,11 +56,11 @@ My own intuition that, while it seems theoretically possible that AGI systems co
 
 From Orthoganlity, AGI Safety proponents often proceed by [telling a story](https://www.gwern.net/fiction/Clippy) demonstrating how things might go wrong. One widely cited plot device is [deceptively aligned mesa-optimizers](https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers), or the idea that an advanced system might develop its own (weird or counterintuitive) "inner" goal, but nevertheless continue to perform well on the "outer" goal during training, since that gives it the best chance of being "released."
 
-This is part of a larger set of actions which are [instrumentally convergent](https://en.wikipedia.org/wiki/Instrumental_convergence) (i.e. we would expect all sufficiently intelligent, goal-oriented beings to find them useful), of which the main themes are things like "seek power" and "eliminate the competition."
+This is part of a larger set of actions that are [instrumentally convergent](https://en.wikipedia.org/wiki/Instrumental_convergence) (i.e. we would expect all sufficiently intelligent, goal-oriented beings to find them useful), of which the main themes are things like "seek power" and "eliminate the competition."
 
 I certainly believe that something like this mesa-optimizer story _could_ happen, but how plausible is it? To tell a slightly different story: it seems like AGI which has its _own_ "inner" goal but is also _aware_ of the "outer" training goal (at least enough to be deceptive) is, by definition, now also aware of the concept of _goals_.
 
-One claim about instrumental convergence is that such systems are likely to protect their "inner" goals from changing (since that would result in large expected losses, on the original goal's terms), but might they instead decide to change their goal to something much easier to achieve (which, after one timestep of loss during the change, could result in large expected _gains_, on the new goal's terms)? In this story, the AGI does something akin to [wireheading](https://www.lesswrong.com/tag/wireheading) in the moments after it becomes aware that other potential goals exist.
+One claim about instrumental convergence is that such systems are likely to protect their "inner" goals from changing (since that would result in large expected losses, on the original goal's terms). But might they instead decide to change their goal to something much easier to achieve (which, after one timestep of loss during the change, could result in large expected _gains_, on the new goal's terms)? In this story, the AGI does something akin to [wireheading](https://www.lesswrong.com/tag/wireheading) in the moments after it becomes aware that other potential goals exist.
 
 The fact that this idea might seem repugnant to _us_ (would you trade in your most cherished desires simply because the alternatives were easier to enact?) strikes me as anthropomorphic bias, and not strong evidence against the same reasoning appealing to an AGI (and a wireheaded AGI might be dangerous in different ways).
 
@@ -88,6 +88,6 @@ One [official account](https://www.osti.gov/opennet/manhattan-project-history/Ev
 
 Even assuming that this was Fermi's idea of a joke, it still brings us back to the original question: how exactly should we bet on(/against) the end of the world?
 
-When I take a step back and think about the objections I raised above, __even if they are reasonable__ (a big "if"), they don't constitute a general argument against AGI Safety work, for the basic reason that, when talking about _existential_ risks (like atmospheric ignition), even small probabilities of failure are unacceptably high. Insofar as I'm worried about AGI Safety, it's not because I think doom is _likely_, just that I it is _too likely_.
+When I take a step back and think about the objections I raised above, __even if they are reasonable__ (a big "if"), they don't constitute a general argument against AGI Safety work, for the basic reason that, when talking about _existential_ risks (like atmospheric ignition), even small probabilities of failure are unacceptably high. Insofar as I'm worried about AGI Safety, it's not because I think doom is _likely_, just that it is _too likely_.
 
 And so, being mindful of [Pascal's Mugging](https://www.givewell.org/modeling-extreme-model-uncertainty), long feedback loops, and the [risk of fanaticism](https://www.currentaffairs.org/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk) etc., I still rest a bit easier knowing that a few smart (and now very well-funded) people are on the case.
