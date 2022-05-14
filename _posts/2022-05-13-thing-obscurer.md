@@ -68,7 +68,7 @@ My (literal) mental model is that of a machine, pretty often functional, but som
 
 [![joy.jpg]({{ site.baseurl }}/assets/images/thing-obscurer/joy.jpg "joy"){: .center-image }]({{ site.baseurl }}/assets/images/thing-obscurer/joy.jpg)
 
-But when I read an article (like the original [Baffler piece](https://thebaffler.com/latest/mouthbreathing-machiavellis) that inspired [Fnords](https://nithgrim.wordpress.com/2014/05/21/fnords/)), it's the metaphorical equivalent of someone reaching in and haphazardly mashing a bunch of knobs and dials.
+But when I read an article link this recent [Current Affairs piece](https://www.currentaffairs.org/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk) on longtermism, it's the metaphorical equivalent of someone reaching in and haphazardly mashing a bunch of knobs and dials.
 
 [![anger.jpg]({{ site.baseurl }}/assets/images/thing-obscurer/anger.jpg "anger"){: .center-image }]({{ site.baseurl }}/assets/images/thing-obscurer/anger.jpg)
 
