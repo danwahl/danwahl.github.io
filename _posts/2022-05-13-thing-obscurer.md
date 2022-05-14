@@ -68,10 +68,10 @@ My (literal) mental model is that of a machine, pretty often functional, but som
 
 [![joy.jpg]({{ site.baseurl }}/assets/images/thing-obscurer/joy.jpg "joy"){: .center-image }]({{ site.baseurl }}/assets/images/thing-obscurer/joy.jpg)
 
-But when I read an article link this recent [Current Affairs piece](https://www.currentaffairs.org/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk) on longtermism, it's the metaphorical equivalent of someone reaching in and haphazardly mashing a bunch of knobs and dials.
+But when I read an article like this recent [Current Affairs piece](https://www.currentaffairs.org/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk) on longtermism, it's the metaphorical equivalent of someone reaching in and haphazardly mashing a bunch of knobs and dials.
 
 [![anger.jpg]({{ site.baseurl }}/assets/images/thing-obscurer/anger.jpg "anger"){: .center-image }]({{ site.baseurl }}/assets/images/thing-obscurer/anger.jpg)
 
 This is not good! And it can sometimes take me a while to reach a new equilibrium again.
 
-I think using something like (or hopefully better than) the Thing Obscurer to generate a Fnords version of a thread/article might at least help make the underlying tone explicit. Which, in turn, could allow people like me to identify (and avoid) authors and sources that skew inflammatory.
+I think using something like (or hopefully better than) the Thing Obscurer to generate a Fnords version of a thread/article might, ironically, help make the underlying tone clearer. Which, in turn, could allow people like me to identify (and selectively avoid) authors and sources that skew inflammatory.
