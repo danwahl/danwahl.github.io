@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Thing Obscurer
-excerpt: Complicated Stuff Without Simple Words
+excerpt: Complicated Stuff Without Simple Words.
 ---
 
-XKCD author Randall Munroe's [Thing Explainer](https://xkcd.com/thing-explainer/) used only the most common [ten hundred words](/assets/js/thing-obscurer/words.js) to simply explain complicated topics. [Nydwracu's Fnords](https://slatestarcodex.com/2014/05/24/nydwracus-fnords/) does the opposite, removing everything non-essential and thereby exposing the underlying tone.
+XKCD author Randall Munroe's [Thing Explainer](https://xkcd.com/thing-explainer/) used only the most common [ten hundred words](/assets/js/thing-obscurer/words.js) to simply explain complicated topics. [Nydwracu's Fnords](https://slatestarcodex.com/2014/05/24/nydwracus-fnords/) did the opposite, removing everything non-essential and thereby exposing the underlying tone.
 
 I like both of these ideas, so let's combine them. Copy/paste some text into the box, and below you'll see the same text with the most common "ten hundred" words (and some punctuation) removed.
 
@@ -62,13 +62,13 @@ But, in a larger sense, we can not dedicate—we can not consecrate—we can not
 
 # Why do this?
 
-After taking a lengthy break from social media like Twitter and mainstream news outlets like The New York Times, I'm finding that I no longer have the stomach for their brand of emotionally/politically charged language (if I ever did).
+After taking a lengthy break from social media sites like Twitter and mainstream news outlets like The New York Times, I'm finding that I no longer have the stomach for their brand of emotionally/politically charged language (if I ever did).
 
 My (literal) mental model is that of a machine, pretty often functional, but sometimes on the fritz (in which state it's worse than useless). There's a large control panel with a bunch of knobs and dials, and through a non-trivial amount of effort, I've found a combination of settings that makes everything run smoothly enough.
 
 [![joy.jpg]({{ site.baseurl }}/assets/images/thing-obscurer/joy.jpg "joy"){: .center-image }]({{ site.baseurl }}/assets/images/thing-obscurer/joy.jpg)
 
-But when I read an article (like the original [Baffler piece](https://thebaffler.com/latest/mouthbreathing-machiavellis) that inspired [Fnords](https://nithgrim.wordpress.com/2014/05/21/fnords/)), it's the metaphorical equivalent of someone reaching in and haphazardly mashing a bunch of dials.
+But when I read an article (like the original [Baffler piece](https://thebaffler.com/latest/mouthbreathing-machiavellis) that inspired [Fnords](https://nithgrim.wordpress.com/2014/05/21/fnords/)), it's the metaphorical equivalent of someone reaching in and haphazardly mashing a bunch of knobs and dials.
 
 [![anger.jpg]({{ site.baseurl }}/assets/images/thing-obscurer/anger.jpg "anger"){: .center-image }]({{ site.baseurl }}/assets/images/thing-obscurer/anger.jpg)
 
