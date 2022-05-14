@@ -6,7 +6,7 @@ excerpt: Five reasons I'm not working on AGI Safety (but glad somebody is).
 
 It's trivially easy to bet against the end of the world: you win in all the scenarios where you survive. Still, I find myself wanting to bet against a _specific_ doomsday hypothesis: that the world is [about to end](https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy) due to the creation of misaligned, superintelligent AI.
 
-I say this despite being _very_ sympathetic to the underlying EA/rationalist/longtermist worldview, and after spending ~40 hours reading/thinking/chatting about the topic, most recently as part of the [AGI Safety Fundamentals](https://www.eacambridge.org/agi-safety-fundamentals) course put on by EA Cambridge.
+I say this despite being _very_ sympathetic to the underlying EA/rationalist/longtermist worldview, and after spending ~40 hours [reading](https://www.goodreads.com/en/book/show/44767248)/thinking/chatting about the topic, most recently as part of the [AGI Safety Fundamentals](https://www.eacambridge.org/agi-safety-fundamentals) course put on by EA Cambridge.
 
 In fact, this post represents a sort of "final project" for that course, though I'm sure the organizers expected something more... _productive_ out of their attendees. Nevertheless, I hope others find this post useful, if only as an artifact of what people like me think about when first exposed to the topic.
 
@@ -32,13 +32,13 @@ I consider it a minor miracle that we (in the US) haven't experienced a terroris
 
 Alignment, or the idea that we want to make AGI that is deterministically bound to work in our interests, is an _interesting_ problem that grounds out in some very deep, open philosophical questions. But as the Slaughterbots video demonstrates, there are other, more fundamental issues that we would encounter even if we were handed a properly "aligned" AGI system tomorrow.
 
-One is that individual humans are not aligned with the interests of _humanity_. There is no academic institution, or benevolent dictator, or democratically elected government, or United Nations committee etc. that I would trust to wield the power that would come from having a real genie and infinite wishes. (In fairness to the AGI Safety Fundamentals course, there was an entirely separate [governance track](https://www.eacambridge.org/ai-governance-curriculum) on this issue).
+One is that individual humans are not aligned with the interests of _humanity_. And there's no academic institution, or democratically elected government, or United Nations committee etc. that I would trust to do the right thing with a real genie and infinite wishes. (In fairness to the AGI Safety Fundamentals course, there was an entirely separate [governance track](https://www.eacambridge.org/ai-governance-curriculum) on this issue).
 
 This is in part because there's no clear consensus on what "doing the right thing" even means. Among moral philosophers, who have devoted their professional lives to pondering the problem, surveys indicate a [roughly even split](https://philpapers.org/surveys/results.pl) between between deontology, virtue ethics, consequentialism, and _other_ (and that's not to even mention our political and religious differences).
 
-Even worse, individual humans aren't even aligned with _themselves_. How can I expect someone else to direct an AGI to perform an action that benefits everyone when I'm not even sure which actions _I_ should take to benefit _me_?
+Even worse, individual humans aren't even aligned with _themselves_. How can I expect someone else to direct an AGI to perform an action that benefits everyone when _I'm_ often wrong about which actions benefit _me_?
 
-I should admit that my "secret" hope is that, against all odds (a  Yudowskian "miracle"), the AGI that we eventually create will simply do Utilitarian thing, and maximize the happiness (and minimize the suffering) of all sentient beings, _regardless of what we ask of it_ (maybe this _is_ what people mean by "alignment"?). But although I have no idea how to model this probability, there are reasons to suspect it might be depressingly low.
+I should admit that my "secret" hope is that, against all odds (a  Yudowskian "miracle"), the AGI that we eventually create will simply do Utilitarian thing, and maximize the happiness (and minimize the suffering) of all sentient beings, _regardless of what we ask of it_ (maybe this _is_ what people mean by "alignment"?). But even though I have no idea how to model this probability, there are reasons to suspect it might be depressingly low.
 
 # 3. Orthogonality skepticism
 
@@ -54,13 +54,13 @@ My own intuition that, while it seems theoretically possible that AGI systems co
 
 # 4. Dangerous mesa-optimizers seem unlikely
 
-From Orthoganlity, AGI Safety proponents often proceed by [telling a story](https://www.gwern.net/fiction/Clippy) demonstrating how things might go wrong. One widely cited plot device is [deceptively aligned mesa-optimizers](https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers), or the idea that an advanced system might develop its own (weird or counterintuitive) "inner" goal, but nevertheless continue to perform well on the "outer" goal during training, since that gives it the best chance of being "released."
+From Orthoganlity, AGI Safety proponents often proceed by [telling a story](https://www.gwern.net/fiction/Clippy) demonstrating how things might go wrong. One widely used plot device is [deceptively aligned mesa-optimizers](https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers), or the idea that an advanced system might develop its own (weird or counterintuitive) "inner" goal, but nevertheless continue to perform well on the "outer" goal during training, since that gives it the best chance of being "released."
 
 This is part of a larger set of actions that are [instrumentally convergent](https://en.wikipedia.org/wiki/Instrumental_convergence) (i.e. we would expect all sufficiently intelligent, goal-oriented beings to find them useful), of which the main themes are things like "seek power" and "eliminate the competition."
 
 I certainly believe that something like this mesa-optimizer story _could_ happen, but how plausible is it? To tell a slightly different story: it seems like AGI which has its _own_ "inner" goal but is also _aware_ of the "outer" training goal (at least enough to be deceptive) is, by definition, now also aware of the concept of _goals_.
 
-One claim about instrumental convergence is that such systems are likely to protect their "inner" goals from changing (since that would result in large expected losses, on the original goal's terms). But might they instead decide to change their goal to something much easier to achieve (which, after one timestep of loss during the change, could result in large expected _gains_, on the new goal's terms)? In this story, the AGI does something akin to [wireheading](https://www.lesswrong.com/tag/wireheading) in the moments after it becomes aware that other potential goals exist.
+One claim about instrumental convergence is that such systems are likely to protect their "inner" goal from changing (since that would result in large expected losses, on the original goal's terms). But might they instead decide to change that goal to something much easier to achieve (which, after one timestep of loss during the change, could result in large expected _gains_, on the new goal's terms)? In this story, the AGI does something akin to [wireheading](https://www.lesswrong.com/tag/wireheading) in the moments after it becomes aware that other potential goals exist.
 
 The fact that this idea might seem repugnant to _us_ (would you trade in your most cherished desires simply because the alternatives were easier to enact?) strikes me as anthropomorphic bias, and not strong evidence against the same reasoning appealing to an AGI (and a wireheaded AGI might be dangerous in different ways).
 
@@ -74,7 +74,7 @@ Well, I've been as impressed as everyone else by the remarkable progress that ha
 
 For example: before simple calculators, humans labor was an integral part of any attempt to [crunch numbers](https://youtu.be/DmfxIhmGPP4). Before computers, human labor was an integral part of any attempt to [manipulate data](https://en.wikipedia.org/wiki/Hidden_Figures). At each step, a certain portion of the intellectual burden was offloaded from humans and onto machines, but the "core smarts" remained squarely within the human domain.
 
-Now, with advanced AI techniques, we're once again presented with a new category of "machine" that exceeds human capabilities. But it's still not clear whether we're in an entirely new paradigm, and AGI is about to offload _all_ remaining burdens (for better or worse), or if recent advances are instead more of a new calculator/computer revolution.
+Now, with modern AI techniques, we're once again presented with a new category of "machine" that exceeds human capabilities in some domains. But it's still unclear whether we're in an entirely new paradigm, and AGI is about to offload _all_ remaining burdens (for better or worse), or if recent advances instead mark a new calculator/computer revolution.
 
 I think there's at least some evidence to indicate that we're still in the latter category, and each new highly advanced algorithm that achieves superhuman performance in a specific domain _without_ becoming generally capable should update us [away from worrying about AGI](https://www.overcomingbias.com/2022/05/foom-update.html), not towards it. My proposed alternative explanation is that we're in the process of discovering some new facet of intelligence (call it "shallow pattern matching"), more similar to number crunching and data manipulation than AGI. We initially bundle these into the "what makes humans special" category, but come to realize that they are separable and, by themselves, insufficient for true general ("deep") intelligence.
 
