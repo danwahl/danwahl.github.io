@@ -4,7 +4,7 @@ title: Thing Obscurer
 excerpt: Complicated Stuff Without Simple Words.
 ---
 
-XKCD author Randall Munroe's [Thing Explainer](https://xkcd.com/thing-explainer/) used only the most common [ten hundred words](/assets/js/thing-obscurer/words.js) to simply explain complicated topics. [Nydwracu's Fnords](https://slatestarcodex.com/2014/05/24/nydwracus-fnords/) did nearly the opposite, removing everything non-essential and thereby exposing the underlying tone.
+XKCD author Randall Munroe's [Thing Explainer](https://xkcd.com/thing-explainer/) used only the most common [ten hundred words](/assets/js/thing-obscurer/words.js) to simply explain complicated topics. [Nydwracu's Fnords](https://slatestarcodex.com/2014/05/24/nydwracus-fnords/) did nearly the opposite, removing everything non-essential and clearly exposing the underlying message.
 
 I like both of these ideas, so let's combine them. Copy/paste some text into the box, and below you'll see the same text with the most common "ten hundred" words (and some punctuation) removed.
 
@@ -62,7 +62,7 @@ But, in a larger sense, we can not dedicate—we can not consecrate—we can not
 
 # Why do this?
 
-After taking a lengthy break from social media sites like Twitter and mainstream news outlets like The New York Times, I'm finding that I no longer have the stomach for their brand of emotionally/politically charged language (if I ever did).
+After taking a lengthy break from social media sites like Twitter and mainstream news outlets like The New York Times, I'm finding that I no longer have the stomach for their brand of emotionally/politically charged language (if I ever did). And this is not to mention their less sophisticated cousins like TikTok and CNN.
 
 My (literal) mental model is that of a machine, pretty often functional, but sometimes on the fritz (in which state it's worse than useless). There's a large control panel with a bunch of knobs and dials, and through a non-trivial amount of effort, I've found a combination of settings that makes everything run smoothly enough.
 
