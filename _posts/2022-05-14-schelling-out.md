@@ -16,9 +16,9 @@ There's also the inertia: I like my Chicago apartment and my Chicago friends, an
 
 # Four factors
 
-We've already talked about weather, which is the ostensive reason for this (partial) move. But weather itself is not a sufficient criteria for evaluating destinations: I also want to participate in enjoyable activities, find (or import?) a like-minded community, and not pay through the nose for the opportunity.
+We've already talked about weather, which is the primary reason for this (partial) move. But weather itself is not a sufficient criterion for evaluating destinations: I also want to participate in enjoyable activities, find (or import?) a like-minded community, and not pay through the nose for the opportunity.
 
-And so, being an engineer, I went in search of some data that I could analyze, and eventually landed on the following four factors: (winter) weather, bike-ability, vegan-friendliness, and housing costs. While these don't result in a perfect approximation of a location's desirability, they at least serve as a rough estimate, and may even reveal some hidden gems that would otherwise get lost in the shuffle.
+And so, being an engineer, I went in search of some data that to analyze, and eventually landed on the following four factors: (winter) weather, bike-ability, vegan-friendliness, and housing costs. While these don't result in a perfect approximation of a location's desirability, they at least serve as a rough estimate, and may even reveal some hidden gems that would otherwise get lost in the shuffle.
 
 ## Winter weather
 
