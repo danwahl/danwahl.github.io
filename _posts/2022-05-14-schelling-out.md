@@ -22,7 +22,7 @@ And so, being an engineer, I went in search of some data that to analyze, and ev
 
 ## Winter weather
 
-I admit the following section is, in part, an excuse to promote a personal hobby-horse: [Universal Thermal Climate Index](http://www.utci.org/) (UTCI). See, there's something fundamentally broken about the way meteorologists attempt to convey weather conditions to the public. A typical forecast will include a bevy of information: temperature, humidity, precipitation/cloudiness, wind speed, pressure, etc. It may even include more esoteric derivatives like heat index and wind chill (which, perplexingly, are typically reported in the same units as temperature).
+I admit the following section is, in part, an excuse to promote a personal hobbyhorse: [Universal Thermal Climate Index](http://www.utci.org/) (UTCI). See, there's something fundamentally broken about the way meteorologists attempt to convey weather conditions to the public. A typical forecast will include a bevy of information: temperature, humidity, precipitation/cloudiness, wind speed, pressure, etc. It may even include more esoteric derivatives like heat index and wind chill (which, perplexingly, are typically reported in the same units as temperature).
 
 What they do not provide, and therefore expect the end-user to infer for themselves via multi-dimensional analysis, is the answer to the question that I care most about: _will I be comfortable outside?_ 
 
@@ -33,7 +33,7 @@ As an example, take the following two real forecasts for May 15th, 2022:
 
 Imagine you have to choose to spend the day in either Seattle or Phoenix--which do you prefer? Despite providing tens of bytes worth of information, the standard forecasts fail to provide the single bit that would actually answer that question.
 
-So why hasn't a metric like UTCI caught on? I'm not sure, but it might have something to do with the extremely opaque ~200 term [regression model](http://www.utci.org/utci_doku.php) (written in _Fortran_), or the variance in individual preferences, which could make it impossible to capture something "universal" in a single dimension.
+So why hasn't a metric like UTCI caught on? I'm not sure, but it might have something to do with the extremely opaque ~200 term [regression model](http://www.utci.org/utci_doku.php) (written in _Fortran_), or the variance in individual preferences, which could make it impossible to capture something "universal" along a single dimension.
 
 But small details like that won't stop me from using UTCI in _my_ analysis. What almost _did_ stop me was the near impossibility of finding an easily accessible source of average climate data by city, on which I could run the computation. But thankfully I eventually located a convenient [Python library](https://github.com/ladybug-tools/ladybug-comfort) and [data source](https://climate.onebuilding.org/) (both of which seem to be used primarily for building HVAC design).
 
@@ -58,13 +58,16 @@ Fullerton        California            0.711111  0.403533
 San Diego        California            0.702083  0.454484
 ```
 
-An example interpretation of the above: during the winter, it is "comfortable" 72.5% of waking hours in Inglewood, California. Also note that, while you _could_ use the `summer` scores if you already live somewhere warm and are looking for a "summering" destination, you should skip all that and just come to Chicago instead.
+An example interpretation of the above: during the winter, it is "comfortable" (no thermal stress) 72.5% of waking hours in Inglewood, California. Also note that, while you _could_ use the `summer` scores if you already live somewhere warm and are looking for a "summering" destination, you should skip all that and just come to Chicago instead.
 
 ## Bike-ability
 
 One of my favorite things about Chicago is how bike-able it is. After moving here with a car (essential for my previous, interminable commute in DC), I quickly realized that biking was not only great for exploration and exercise, but also the fastest way to get from point A to B. Two years after my move, I ditched my car in favor of a second bike, and haven't looked back since (except to check for traffic).
 
 As a side-note, my biking habits have changed dramatically in just the last few years, with the onset of cheap and widely available e-bike components. I don't think the extent of the e-bike revolution has fully percolated through our collective consciousness, and Chicago (with its oblong shape and correspondingly long commutes) represents a perfect use case for the benefits of this newly widespread tech.
+
+[![e-bike.png]({{ site.baseurl }}/assets/images/schelling-out/e-bike.png "e-bike"){: .center-image }]({{ site.baseurl }}/assets/images/schelling-out/e-bike.png)
+*My first e-bike, a [State Wulf](https://www.statebicycle.com/collections/core-line/products/wulf-core-line)(?) with a [TSDZ2 mid-drive retrofit kit](https://www.eco-ebike.com/collections/tongsheng-tsdz2/products/tsdz2-w-850c-torque-sensing-pedal-assist-with-throttle-and-e-brakes-36v-48v-52v-10-18a-250-750w) (running open-source firmware!)*
 
 So bike-ability is important to me, but how best to approximate it with available data? I considered a few options, including using [existing bike rankings](https://cityratings.peopleforbikes.org/), or even computing a metric for bike lane coverage via something like [OpenStreetMap](https://www.cyclosm.org/). But actual usage data is a better indicator than mere infrastructure, and so I opted to for American Community Survey's [B08006: SEX OF WORKERS BY MEANS OF TRANSPORTATION TO WORK](https://data.census.gov/cedsci/) table (collated by Place), which includes a estimate of bicycle commuters. Dividing this by the total population (S0101: AGE AND SEX) gives the result per 100K:
 
@@ -83,13 +86,13 @@ San Francisco     California              2140.528405
 Chico             California              1930.423680
 ```
 
-One thing to note here and elsewhere: college towns (with their manicured campuses and perennially youthful populations) score well on some metrics in a way that may skew overall results. For instance, if a disproportionate number of city bicycle lanes are on-campus (as may be the case somewhere like Cambridge, Massachusetts), a high score may not actually be representative of the "adult" lived experience.
+One thing to note here and elsewhere: college towns (with their manicured campuses and perennially youthful populations) score well on some metrics in a way that may skew overall results. For instance, if a disproportionate number of city bicycle lanes are on-campus (which could be the case in e.g. [Cambridge, Massachusetts](https://www.google.com/maps/@42.3732168,-71.1202181,16z/data=!5m1!1e3)), a high score may not actually be representative of the "adult" lived experience.
 
 ## Vegan-friendliness
 
 As a third factor, I wanted to find a metric for the type of community I'm looking to join/build in my future wintering destination. After considering a few options (e.g. existing EA or Rationality communities), and not finding enough data on smaller cities, I ended up choosing vegan-friendliness (and specifically the number of vegan restaurants per-capita) as a reasonable proxy.
 
-On its surface, this is a bit of an odd fit because, despite there being some excellent nearby vegan restaurants, I don't eat out very often. And even though I think nearly everyone can and should be plant-based (see [my 2018 post](/blog/against-thanksgiving) on the topic), I don't have any hard restrictions when it comes to being friends, roommates, romantic partners, etc. with non-vegans. But it's still a potential source of social friction, and knowing someone has gone vegan makes it much more likely that we'll have significant political and philosophical overlap.
+On its surface, this is a bit of an odd fit because, having access to some [excellent](https://www.kalishvegan.com/) [nearby](https://www.kalemyname.com/) [vegan](https://www.urbanveganthai.com/) [restaurants](https://www.samandgerties.com/), I don't eat out very often. And even though I think nearly everyone can and should be plant-based (see [my 2018 post](/blog/against-thanksgiving) on the topic), I don't have any hard restrictions when it comes to being friends, roommates, romantic partners, etc. with non-vegans. But it's still a potential source of social friction, and knowing someone has gone vegan makes it much more likely that we'll have other areas of political and philosophical overlap.
 
 Getting the data on vegan restaurants was initially a bit of a pain, since I wrongly expected [Happy Cow](https://www.happycow.net/) (the vegan equivalent of Yelp) to be easily scrape-able. After toying with the idea of leveraging Mechanical Turk for the task, I eventually learned that Yelp itself has a [public API](https://www.yelp.com/developers) with an _excellent_ free tier. A few GraphQL queries later, and we get the following top 10 list of vegan restaurants per 100K:
 
@@ -112,11 +115,11 @@ There's still a bit of a California slant here, but also a few predictable (Port
 
 ## Housing costs
 
-It's all fine and good to calculate the _positive_ qualities of potential destination cities, but basic economics gives us reason to suspect that nicer things generally cost more [[citation needed]](https://en.wikipedia.org/wiki/Citation_needed). And being notoriously cheap (for a [good cause](/blog/personal-giving)), it's easier to imagine being happy getting a "good deal" on a less desirable location than the opposite.
+It's all fine and good to calculate the _positive_ qualities of potential destination cities, but basic economics gives us reason to suspect that nicer things generally cost more [[citation needed]](https://en.wikipedia.org/wiki/Citation_needed). And being notoriously cheap (for a [good cause](/blog/personal-giving)), it's easier for me to imagine being happy getting a "good deal" on a less desirable location than the opposite.
 
-I initially toyed with the idea of using existing cost-of-living metrics, but opted against these sources for a few reasons. First, as I mentioned above, unless you're crunching the numbers yourself, it's hard to find a dataset that includes the smallish cities on my list. And even if you could, the existing data I found was not entirely applicable, since most sources adjust for earnings potential, and as a remote consultant, my income is location-independent.
+I initially toyed with the idea of using existing cost-of-living metrics, but opted against these sources for a few reasons. First, as I mentioned above, unless you're crunching the numbers yourself, it's hard to find a dataset that includes the smallish cities on my list. And even if you could, the existing data I found was not entirely applicable: most sources seem to adjust for earnings potential, but as a remote consultant, my income is location-independent.
 
-So instead, I combined my need for a metric with my fledgling desire to become a real estate baron, and simply looked at housing costs. Zillow kindly provides a bunch of [free data](https://www.zillow.com/research/data/) collected from their listings (just [don't use it](https://www.wsj.com/articles/zillows-shuttered-home-flipping-business-lost-881-million-in-2021-11644529656) for real estate speculation!), and so I borrowed their median figures. Here's the corresponding top 10 list showing the least expensive locations:
+So instead I combined my need for a metric with my fledgling desire to become a real estate baron, and simply looked at housing costs. Zillow kindly provides a bunch of [free data](https://www.zillow.com/research/data/) collected from their listings (just [don't use it](https://www.wsj.com/articles/zillows-shuttered-home-flipping-business-lost-881-million-in-2021-11644529656) for real estate speculation!), and so I borrowed their median figures. Here's the corresponding top 10 list showing the least expensive locations:
 
 ```
                                             housing
@@ -145,7 +148,7 @@ City    State
 Chicago Illinois  754.626952  297669.0  2.475979  0.05625  0.516984
 ```
 
-I then took the `log2()` of each column, meaning that each additional "point" represents a doubling/halving of the underlying quantity (with Chicago pegged at `0.0` on all scales). The intuition behind this is the same as [maximizing logarithmic wealth](https://en.wikipedia.org/wiki/Kelly_criterion): if my hometown has one vegan restaurant and gets another it's a big event, but when a new one opens in Portland hardly anyone notices.
+I then took the `log2()` of each column, meaning that an additional "point" represents a doubling/halving of the underlying quantity (with Chicago pegged at `0.0` on all scales). The intuition behind this is the same as [diminishing marginal utility](https://en.wikipedia.org/wiki/Marginal_utility#Law_of_Diminishing_marginal_utility): if my hometown has one vegan restaurant and gets a second it's a big event, but when a new one opens in Portland hardly anyone notices.
 
 Finally, to actually aggregate the data into a single overall `total`, I just took the average for the four factors. This is clearly overly simplistic, but does have a few nice properties. First is that, if a hypothetical city scores `1.0` on all metrics, we'd only expect it to be _twice_ as good as Chicago overall (i.e. points don't compound). Another is that, if a different city's scores are `[1.0, -1.0, 1.0, -1.0]`, its `total` should be `0.0` (a higher-variance equivalent of Chicago).
 
@@ -155,7 +158,7 @@ Finally, we're ready for the overall results, but I'll comment up here, since th
 
 First, does the ordering make any intuitive sense? I think so! Known desirable locations like Berkeley and Portland do really well, and suspected undesirable locations like Newark and Fargo fare poorly.
 
-Is it _actionable_ though? I'm not sure! I suspect that it under-weights costs, relative to my preferences. I already knew that Berkeley is great, and have been continuously deciding not to move there for nearly a decade, mostly because it's expensive. This could be corrected by adjusting the aggregation weights a bit, but I'll leave that as an exercise for the reader.
+Is it _actionable_ though? I'm not sure! I suspect that it under-weights costs relative to my preferences. I already knew that Berkeley is great, and have been continuously deciding not to move there for nearly a decade, mostly because it's expensive. This could be corrected by e.g. adjusting the aggregation weights a bit, but I'll leave that as an exercise for the reader.
 
 Any surprises? Yes! Gainesville ends up looking like a potential Schelling point (but note the aforementioned college town caveat), and I'm already considering an exploratory trip. Even though it's the country's most stereotypical wintering location, Florida still looks to be somewhat underrated in general, at least in terms benefits per cost.
 
