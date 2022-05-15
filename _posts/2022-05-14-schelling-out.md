@@ -10,6 +10,10 @@ Not _entirely_ out, of course. I still love the city, and maintain that it's one
 
 There's also the inertia: I like my Chicago apartment and my Chicago friends, and I'm not _quite_ ready to reboot my life for a third time in as many decades. But I am ready to GTFO next winter. The only question is: where to?
 
+<!--more-->
+* table of contents
+{: toc }
+
 # Four factors
 
 We've already talked about weather, which is the ostensive reason for this (partial) move. But weather itself is not a sufficient criteria for evaluating destinations: I also want to participate in enjoyable activities, find (or import?) a like-minded community, and not pay through the nose for the opportunity.
