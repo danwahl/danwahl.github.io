@@ -112,7 +112,7 @@ There's still a bit of a California slant here, but also a few predictable (Port
 
 ## Housing costs
 
-It's all fine and good to calculate the _positive_ qualities of potential destination cities, but basic economics gives us reason to suspect that nicer things generally cost more [[citation needed]](https://en.wikipedia.org/wiki/Citation_needed). And being a notorious cheapskate (but in a [good way](/blog/personal-giving)), it's easier to imagine being happy getting a "good deal" on a less desirable location than the opposite.
+It's all fine and good to calculate the _positive_ qualities of potential destination cities, but basic economics gives us reason to suspect that nicer things generally cost more [[citation needed]](https://en.wikipedia.org/wiki/Citation_needed). And being notoriously cheap (for a [good cause](/blog/personal-giving)), it's easier to imagine being happy getting a "good deal" on a less desirable location than the opposite.
 
 I initially toyed with the idea of using existing cost-of-living metrics, but opted against these sources for a few reasons. First, as I mentioned above, unless you're crunching the numbers yourself, it's hard to find a dataset that includes the smallish cities on my list. And even if you could, the existing data I found was not entirely applicable, since most sources adjust for earnings potential, and as a remote consultant, my income is location-independent.
 
@@ -157,11 +157,30 @@ First, does the ordering make any intuitive sense? I think so! Known desirable l
 
 Is it _actionable_ though? I'm not sure! I suspect that it under-weights costs, relative to my preferences. I already knew that Berkeley is great, and have been continuously deciding not to move there for nearly a decade, mostly because it's expensive. This could be corrected by adjusting the aggregation weights a bit, but I'll leave that as an exercise for the reader.
 
-Any surprises? Yes! Gainesville ends up looking really good (but note the aforementioned college town caveat), and I'm already considering an exploratory trip. Even though it's the country's most stereotypical wintering location, Florida still looks to be somewhat underrated in general, at least in terms benefits per cost.
+Any surprises? Yes! Gainesville ends up looking like a potential Schelling point (but note the aforementioned college town caveat), and I'm already considering an exploratory trip. Even though it's the country's most stereotypical wintering location, Florida still looks to be somewhat underrated in general, at least in terms benefits per cost.
 
 Anything depressing predictable? Unfortunately! As expected, the housing market is already pretty efficient at pricing in desirable qualities:
 
 [![plot.png]({{ site.baseurl }}/assets/images/schelling-out/plot.png "plot"){: .center-image }]({{ site.baseurl }}/assets/images/schelling-out/plot.png)
+
+In case you're wondering, the cities on the Pareto frontier of the above plot are (from left to right):
+
+```
+                             housing  mean(biking + vegan + winter)
+City        State                                                  
+Berkeley    California     -2.166879                       2.894951
+Portland    Oregon         -0.720326                       2.114104
+Tempe       Arizona        -0.184675                       1.999728
+New Orleans Louisiana       0.053609                       1.795931
+Gainesville Florida         0.854543                       1.760714
+Tallahassee Florida         1.061017                       0.864989
+Columbia    South Carolina  1.268380                       0.799584
+McAllen     Texas           1.306605                       0.651316
+Edinburg    Texas           1.570956                       0.474594
+Birmingham  Alabama         2.301232                      -0.049612
+Macon       Georgia         2.656942                      -0.458740
+Shreveport  Louisiana       2.916014                      -0.787479
+```
 
 Any other thoughts? Sure! **Cold winters suck**, so let's all meet somewhere warm for a few months next year and see how it goes.
 
