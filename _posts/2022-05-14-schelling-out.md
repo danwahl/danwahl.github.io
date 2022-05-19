@@ -6,7 +6,7 @@ excerpt: Where should we all go next winter?
 
 Whether or not it's [windier than average](/blog/solar-panel#windy-city), my adopted hometown of Chicago is definitely not known for its balmy winters. And even though I thought I was prepared for the worst when I moved here nearly a decade(!) ago, the frigid isolation over the past two pandemic years has pushed me over the edge: I want out.
 
-Not _entirely_ out, of course. I still love the city, and maintain that it's one of the finest places to spend the summer in the continental US. Not only does the city take its warm weather activities seriously (having dreamed about them all winter), but unbeknownst to many nonresidents, Chicago is a _beach town_, with 22 miles of parks and trails along Lake Michigan, and within walking distance of nearly anywhere in the city!
+Not _entirely_ out, of course. I still love the city, and maintain that it's one of the finest places to spend the summer in the continental US. Not only does the city take its warm weather activities seriously (having dreamed about them all winter), but unbeknownst to many nonresidents, Chicago is a _beach town_, with 22 miles of sandy parks and trails along Lake Michigan, and within walking distance of nearly anywhere in the city!
 
 There's also the inertia: I like my Chicago apartment and my Chicago friends, and I'm not _quite_ ready to reboot my life for a third time in as many decades. But I am ready to GTFO next winter. The only question is: where to?
 
@@ -22,7 +22,7 @@ And so, being an engineer, I went in search of some data that to analyze, and ev
 
 ## Winter weather
 
-I admit the following section is, in part, an excuse to promote a personal hobbyhorse: [Universal Thermal Climate Index](http://www.utci.org/) (UTCI). See, there's something fundamentally broken about the way meteorologists attempt to convey weather conditions to the public. A typical forecast will include a bevy of information: temperature, humidity, precipitation/cloudiness, wind speed, pressure, etc. It may even present esoteric derivatives like heat index and wind chill (which, perplexingly, are typically reported in the same units as temperature).
+I admit the following section is, in part, an excuse to promote a personal hobbyhorse: [Universal Thermal Climate Index](http://www.utci.org/) (UTCI). See, there's something fundamentally broken about the way meteorologists attempt to convey weather conditions to the public. A typical forecast will include a bevy of information: temperature, humidity, precipitation/cloudiness, wind speed, pressure, etc. It may even present nice derivatives like heat index and wind chill (which, perplexingly, are typically reported in the same units as temperature).
 
 What they do not provide (and therefore expect the end-user to infer for themselves via multi-dimensional analysis) is the answer to the question that I care about most: _will I be comfortable outside?_ 
 
@@ -31,9 +31,9 @@ As an example, take the following two real forecasts for May 15th, 2022:
 - Seattle, WA: High of 61F, 89% humidity, 100% chance of rain, and winds from 5-10 mph
 - Phoneix, AZ: High of 106F, 5% humidity, clear skies, and winds from 10-15 mph
 
-Imagine you have to choose to spend the day in either Seattle or Phoenix--which should you prefer? Despite providing tens of bytes worth of information, the standard forecasts explicitly provide the single bit that would actually answer that question.
+Imagine you have to choose to spend the day in either Seattle or Phoenix--which should you prefer? Despite providing tens of bytes worth of information, the standard forecasts fail to explicitly provide the single bit that would actually answer that question.
 
-So why hasn't a metric like UTCI caught on? I'm not sure, but it might have something to do with the extremely opaque ~200 term [regression model](http://www.utci.org/utci_doku.php) (written in _Fortran_), or the variance in individual preferences, which could make it impossible to capture something "universal" along a single dimension.
+So why hasn't a metric like UTCI caught on? I'm not sure, but it might have something to do with the reference implementation, an extremely opaque ~200 term [regression model](http://www.utci.org/utci_doku.php) (written in _Fortran_), or the variance in individual preferences, which could make it impossible to capture something "universal" along a single dimension.
 
 But small details like that won't stop me from using UTCI in _my_ analysis. What almost _did_ stop me was the near impossibility of finding an easily accessible source of average climate data by city, on which I could run the computation. But thankfully I eventually located a convenient [Python library](https://github.com/ladybug-tools/ladybug-comfort) and [data source](https://climate.onebuilding.org/) (both of which seem to be used primarily for building HVAC design).
 
@@ -65,7 +65,7 @@ An example interpretation of the above: during the winter, it is "comfortable" (
 
 One of my favorite things about Chicago is how bike-able it is. After moving here with a car (essential for my previous, interminable commute in DC), I quickly realized that biking was not only great for exploration and exercise, but also the fastest way to get from point A to B. Two years after my move, I ditched my car in favor of a second bike, and haven't looked back since (except to check for traffic).
 
-As a side-note, my biking habits have changed dramatically in just the last few years, with the onset of cheap and widely available e-bike components. I don't think the extent of the e-bike revolution has fully percolated through our collective consciousness, and Chicago (with its oblong shape and correspondingly lengthy commutes) represents a perfect use case for the benefits of this newly widespread tech.
+As a side-note, my biking habits have changed dramatically in just the last few years, with the advent of cheap and widely available e-bike components. I don't think the extent of the e-bike revolution has fully percolated through our collective consciousness, and Chicago (with its oblong shape and correspondingly lengthy commutes) represents a perfect use case for the benefits of this newly widespread tech.
 
 [![e-bike.png]({{ site.baseurl }}/assets/images/schelling-out/e-bike.png "e-bike"){: .center-image }]({{ site.baseurl }}/assets/images/schelling-out/e-bike.png)
 <cite>My DIY e-bike, a [State Wulf](https://www.statebicycle.com/collections/core-line/products/wulf-core-line)(?) with a [TSDZ2 mid-drive retrofit kit](https://www.eco-ebike.com/collections/tongsheng-tsdz2/products/tsdz2-w-850c-torque-sensing-pedal-assist-with-throttle-and-e-brakes-36v-48v-52v-10-18a-250-750w) (running [open-source firmware](https://github.com/OpenSourceEBike/TSDZ2-Smart-EBike)!)</cite>
@@ -93,7 +93,7 @@ One thing to note here and elsewhere: college towns (with their manicured campus
 
 As a third factor, I wanted to find a metric for the type of community I'm looking to join/build in my future wintering destination. After considering a few options (e.g. existing EA and adjacent communities), and not finding enough data on smaller cities, I ended up choosing vegan-friendliness (and specifically the number of vegan restaurants per-capita) as a reasonable proxy.
 
-On its surface this is a bit of an odd fit because, despite having access to some [excellent](https://www.kalishvegan.com/) [nearby](https://www.kalemyname.com/) [vegan](https://www.urbanveganthai.com/) [restaurants](https://www.samandgerties.com/), I don't eat out very often. And even though I think nearly everyone can and should be plant-based (see [my 2018 post](/blog/against-thanksgiving) on the topic), I don't have any hard restrictions when it comes to being friends, roommates, romantic partners, etc. with non-vegans. But it's still a potential source of social friction, and knowing someone has gone vegan makes it much more likely that we'll have other areas of political and philosophical overlap.
+On its surface this is a bit of an odd fit because, despite having access to some [excellent](https://www.kalishvegan.com/) [nearby](https://www.kalemyname.com/) [vegan](https://www.urbanveganthai.com/) [restaurants](https://www.samandgerties.com/), I don't eat out very often. And even though I think nearly everyone can (and _should_) be plant-based (see [my 2018 post](/blog/against-thanksgiving) on the topic), I don't have any hard restrictions when it comes to being friends, roommates, romantic partners, etc. with non-vegans. But it's still a potential source of social friction, and knowing someone has gone vegan makes it much more likely that we'll have other areas of political and philosophical overlap.
 
 Getting the data on vegan restaurants was initially a bit of a pain, since I wrongly expected [Happy Cow](https://www.happycow.net/) (the vegan equivalent of Yelp) to be easily scrape-able. After toying with the idea of leveraging Mechanical Turk for the task, I eventually learned that Yelp itself has a [public API](https://www.yelp.com/developers) with an _excellent_ free tier. A few GraphQL queries later, and we get the following top 10 list of vegan restaurants per 100K:
 
@@ -149,19 +149,19 @@ City    State
 Chicago Illinois  754.626952  297669.0  2.475979  0.05625  0.516984
 ```
 
-I then took the `log2()` of each column, meaning that an additional "point" represents a doubling/halving of the underlying quantity (with Chicago pegged at `0.0` on all scales). The intuition behind this is the same as [diminishing marginal utility](https://en.wikipedia.org/wiki/Marginal_utility#Law_of_Diminishing_marginal_utility): if my hometown has one vegan restaurant and gets a second it's a big event, but when a new one opens in Portland it's a drop in the bucket.
+I then took the `log2()` of each column, meaning that an additional "point" represents a doubling/halving of the underlying quantity (with Chicago pegged at `0.0` on all scales). The intuition behind this is the same as [diminishing marginal utility](https://en.wikipedia.org/wiki/Marginal_utility#Law_of_Diminishing_marginal_utility): if my hometown has one vegan restaurant and gets a second it's a big event, but when a new one opens in e.g. Portland it's a drop in the bucket.
 
-Finally, to actually aggregate the data into a single overall `total`, I just took the average for the four factors. This is clearly overly simplistic, but does have a few nice properties. First is that, if a hypothetical city scores `1.0` on all metrics, we'd only expect it to be _twice_ as good as Chicago overall (i.e. points don't compound). Another is that, if a different city's scores are `[1.0, -1.0, 1.0, -1.0]`, its `total` should be `0.0` (a higher-variance equivalent of Chicago).
+Finally, to actually aggregate the data into a single overall `total`, I just took the average for the four factors. This is clearly overly simplistic, but does have a few nice properties. First is that, if a hypothetical city scores `1.0` on all metrics, we'd only expect it to be _twice_ as good as Chicago overall (i.e. points shouldn't compound). Another is that, if a different city's scores are `[1.0, -1.0, 1.0, -1.0]`, its `total` should be `0.0` (a higher-variance equivalent of Chicago).
 
 # Conclusion
 
-Finally, we're ready for the overall results, but I'll comment up here, since the full city list is quite long.
+Finally, we're ready for the overall results, but I'll comment on them up here, since the full city list is quite long.
 
 First, does the ordering make any intuitive sense? I think so! Known desirable locations like Berkeley and Portland do really well, and suspected undesirable locations like Newark and Fargo fare poorly.
 
 Is it _actionable_ though? I'm not sure! I suspect that it under-weights costs relative to my preferences. I already knew that Berkeley is great, and have been continuously deciding not to move there for nearly a decade, mostly because it's expensive. This could be corrected by e.g. adjusting the aggregation weights a bit, but I'll leave that as an exercise for the reader.
 
-Any surprises? Yes! Gainesville ends up looking like a potential Schelling point (but note the aforementioned college town caveat), and I'm already considering an exploratory trip. Even though it's the country's most stereotypical wintering location, Florida still looks to be somewhat underrated, at least in terms benefits per cost.
+Any surprises? Yes! **Gainesville ends up looking like a potential Schelling point** (but note the aforementioned college town caveat), and I'm already considering an exploratory trip. Even though it's the country's most stereotypical wintering location, Florida still looks to be somewhat underrated, at least in terms benefits per cost.
 
 Anything depressing predictable? Unfortunately! As expected, the housing market is already pretty efficient at pricing in desirable qualities:
 
