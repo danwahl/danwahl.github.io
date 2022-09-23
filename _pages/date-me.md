@@ -114,7 +114,7 @@ I also have an embarrassing affinity for romcoms like:
 
 ### Shows
 
-I watch _a lot_ of TV, but mostly in the background while working. I have probably seen _that show_ but only remember the faintest details about the characters/plot.
+I watch _a lot_ of TV, but mostly in the background while working. I have probably seen _that show_ but only faintly remember details about the characters/plot.
 
 ### Music
 
@@ -171,9 +171,9 @@ In the medium-term, I'd like to find one or more new romantic partners that I se
 
 In the long-term, I'm not sure! I've recently gone from being a "no thanks" to a "maybe?" on having kids (though it's still hard to imagine _intentionally_ seeking them out). I'm historically not much for cohabitation, and value my independence (and my partner's too).
 
-### You should't message me if
+### You shouldn't message me if
 
-- You're looking for a monogamous partner
+- You're exclusively looking for a monogamous partner
 - You want to have kids _soon_
 - You don't like truth-seeking conversational norms
 - You're not willing to eat vegan around me (within reason)
