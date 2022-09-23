@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+redirect_from: /about
 ---
 
 Hi, I'm Dan. I'm a robotics engineer, and one of the software developers for the [Modular Prosthetic Limb](http://www.jhuapl.edu/prosthetics/scientists/mpl.asp). Here are a few links related to that program:

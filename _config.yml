@@ -26,9 +26,12 @@ minima:
   date_format: "%Y-%m-%d"
 
 collections:
+  pages:
+    output: true
+    permalink: /:collection/:name
   redirects:
     output: true
     permalink: /:collection/:name
 
 header_pages:
-  - about.md
+  - _pages/about.md
