@@ -54,7 +54,7 @@ Hi, I'm Dan. Some stats:
 - Engineering robots for a living (I run my own consultancy)
     - See my [About](/about) page for some videos
 - Co-organizing [EA Chicago](https://eachicago.com)
-- [LEEP](https://leadelimination.org) board treasurer
+- [LEEP](https://leadelimination.org) board member
 - [Making things](http://github.com/danwahl) such as:
     - [A portable CO<sub>2</sub> meter](https://github.com/danwahl/adanet-co2-monitor)
     - [A Twitter bot for prediction markets](https://twitter.com/PredictableNews)
