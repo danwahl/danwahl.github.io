@@ -167,7 +167,7 @@ Also:
 
 In the short-term, I'm open to connections of all varieties, but am especially looking for in-person dates with women 25 to 45 years old, who are smart, attractive, and kind (or at least 2/3).
 
-In the medium-term, I'd like to find one or more new romantic partners that I see with some regularity. For reference, I currently have long-distance a partner of 5+ years.
+In the medium-term, I'd like to find one or more new romantic partners that I see with some regularity. For reference, I currently have a long-distance partner of 5+ years.
 
 In the long-term, I'm not sure! I've recently gone from being a "no thanks" to a "maybe?" on having kids (though it's still hard to imagine _intentionally_ seeking them out). I'm historically not much for cohabitation, and value my independence (and my partner's too).
 
