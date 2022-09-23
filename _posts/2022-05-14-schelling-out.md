@@ -22,7 +22,7 @@ And so, being an engineer, I went in search of some data that to analyze, and ev
 
 ## Winter weather
 
-I admit the following section is, in part, an excuse to promote a personal hobbyhorse: [Universal Thermal Climate Index](http://www.utci.org/) (UTCI). See, there's something fundamentally broken about the way meteorologists attempt to convey weather conditions to the public. A typical forecast will include a bevy of information: temperature, humidity, precipitation/cloudiness, wind speed, pressure, etc. It may even present nice derivatives like heat index and wind chill (which, perplexingly, are typically reported in the same units as temperature).
+I admit the following section is, in part, an excuse to promote a personal hobbyhorse: [Universal Thermal Climate Index](http://www.utci.org/) (UTCI). See, there's something fundamentally broken about the way meteorologists attempt to convey weather conditions to the public. A typical forecast will include a bevy of information: temperature, humidity, precipitation/cloudiness, wind speed, pressure, etc. It may even present niche derivatives like heat index and wind chill (which, perplexingly, are typically reported in the same units as temperature).
 
 What they do not provide (and therefore expect the end-user to infer for themselves via multi-dimensional analysis) is the answer to the question that I care about most: _will I be comfortable outside?_ 
 
@@ -35,7 +35,7 @@ Imagine you have to choose to spend the day in either Seattle or Phoenix--which 
 
 So why hasn't a metric like UTCI caught on? I'm not sure, but it might have something to do with the reference implementation, an extremely opaque ~200 term [regression model](http://www.utci.org/utci_doku.php) (written in _Fortran_), or the variance in individual preferences, which could make it impossible to capture something "universal" along a single dimension.
 
-But small details like that won't stop me from using UTCI in _my_ analysis. What almost _did_ stop me was the near impossibility of finding an easily accessible source of average climate data by city, on which I could run the computation. But thankfully I eventually located a convenient [Python library](https://github.com/ladybug-tools/ladybug-comfort) and [data source](https://climate.onebuilding.org/) (both of which seem to be used primarily for building HVAC design).
+But small details like that won't stop me from using UTCI in _my_ analysis. What almost _did_ stop me was the near impossibility of finding an easily accessible source of average climate data by city, on which I could run the computation. Thankfully I eventually located a convenient [Python library](https://github.com/ladybug-tools/ladybug-comfort) and [data source](https://climate.onebuilding.org/) (both of which seem to be used primarily for building HVAC design).
 
 UTCI is _also_ reported on a faux temperature scale (why??), but at least specifies a set of color-coded ranges and associated thermal stress levels:
 
@@ -120,7 +120,7 @@ It's all fine and good to calculate the _positive_ qualities of potential destin
 
 I initially toyed with the idea of using existing cost-of-living metrics, but opted against these sources for a few reasons. First, as I mentioned above, unless you're crunching the numbers yourself, it's hard to find a dataset that includes the smallish cities on my list. And even if you could, the existing data I found was not entirely applicable: most sources seem to adjust for earnings potential, but as a remote consultant, my income is location-independent.
 
-So instead I combined my need for a metric with my fledgling desire to become a real estate baron, and simply looked at housing costs. Zillow kindly provides a bunch of [free data](https://www.zillow.com/research/data/) collected from their listings (just [don't use it](https://www.wsj.com/articles/zillows-shuttered-home-flipping-business-lost-881-million-in-2021-11644529656) for real estate speculation!), and so I borrowed their median figures. Here's the corresponding top 10 list showing the least expensive locations:
+So instead I combined my need for a metric with my fledgling desire to become a real estate baron, and simply looked at housing costs. Zillow kindly provides a bunch of [free data](https://www.zillow.com/research/data/) collected from their listings (just don't use it for [real estate speculation](https://www.wsj.com/articles/zillows-shuttered-home-flipping-business-lost-881-million-in-2021-11644529656)!), and so I borrowed their median figures. Here's the corresponding top 10 list showing the least expensive locations:
 
 ```
                                             housing

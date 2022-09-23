@@ -6,7 +6,7 @@ excerpt: Five reasons I'm not working on AGI Safety (but glad somebody is).
 
 It's trivially easy to bet against the end of the world: you win in all the scenarios where you survive. Still, I find myself wanting to bet against a _specific_ doomsday hypothesis: that the world is [about to end](https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy) due to the creation of misaligned, superintelligent AI.
 
-I say this despite being _very_ sympathetic to the underlying EA/rationalist/longtermist worldview, and after spending ~40 hours [reading](https://www.goodreads.com/en/book/show/44767248)/thinking/chatting about the topic, most recently as part of the [AGI Safety Fundamentals](https://www.eacambridge.org/agi-safety-fundamentals) course put on by EA Cambridge.
+I say this despite being sympathetic to the background EA/rationalist/longtermist worldview, and after spending ~40 hours [reading](https://www.goodreads.com/en/book/show/44767248)/thinking/chatting about the topic, most recently as part of the [AGI Safety Fundamentals](https://www.eacambridge.org/agi-safety-fundamentals) course put on by EA Cambridge.
 
 In fact, this post represents a sort of "final project" for that course, though I'm sure the organizers expected something more... _productive_ out of their attendees. Nevertheless, I hope others find this post useful, if only as an artifact of what people like me think about when first exposed to the topic.
 
@@ -72,7 +72,7 @@ But, you might be asking, what about the incredible recent advances in AI system
 
 Well, I've been as impressed as everyone else by the remarkable progress that has been made in the last few years, but I suggest we employ a different reference frame when judging our proximity to _general_ superhuman capabilities. Instead of seeing all these advances as moving us one step closer to AGI (doom), we could instead see modern AI techniques as cleaving nature at a new joint (one that may sit in middle of a cognitive blind spot).
 
-For example: before simple calculators, humans labor was an integral part of any attempt to [crunch numbers](https://youtu.be/DmfxIhmGPP4). Before computers, human labor was an integral part of any attempt to [manipulate data](https://en.wikipedia.org/wiki/Hidden_Figures). At each step, a certain portion of the intellectual burden was offloaded from humans and onto machines, but the "core smarts" remained squarely within the human domain.
+For example: before simple calculators, human labor was an integral part of any attempt to [crunch numbers](https://youtu.be/DmfxIhmGPP4). Before computers, human labor was an integral part of any attempt to [manipulate data](https://en.wikipedia.org/wiki/Hidden_Figures). At each step, a certain portion of the intellectual burden was offloaded from humans and onto machines, but the "core smarts" remained squarely within the human domain.
 
 Now, with modern AI techniques, we're once again presented with a new category of "machine" that exceeds human capabilities in some domains. But it's still unclear whether we're in an entirely new paradigm, and AGI is about to offload _all_ remaining burdens (for better or worse), or if recent advances instead mark a new calculator/computer revolution.
 
