@@ -8,9 +8,9 @@ excerpt: Or don't. Probably don't.
 
 OkCupid used to be pretty great, right? Back in 2012 or so? Instead of swiping you could _search_. The compatibility score _meant something_. You could just _send people messages_ (ok maybe that part wasn't so great for everybody).
 
-Then _something(s) happened_.
+Then _something(s) happened_ and online dating stopped working.
 
-One of those "somethings" was simply getting older. And if not exactly less attractive, then at least more of an acquired taste. And jaded, so very jaded.
+One of those "somethings" was simply getting older. Older and somewhat jaded. And if not exactly less attractive, then at least more of an acquired taste.
 
 Also there was the rise of the Tinder Clones (of which OKC is now one of the worst). Also Instagram filters and Snapchat lenses. Also, you know, a pandemic.
 
