@@ -96,7 +96,7 @@ See [my Goodreads profile](https://www.goodreads.com/user/show/19026772-dan-wahl
 
 Pseudo-intellectual sci-fi movies involving time loops (it's a Netflix genre).
 
-I also have an embarrassing affinity for romcoms like:
+I also have an affinity for low-key romcoms like:
 
 - Just Like Heaven
 - Return To Me
