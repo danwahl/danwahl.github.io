@@ -60,8 +60,7 @@ Hi, I'm Dan. Some stats:
     - [A Twitter bot for prediction markets](https://twitter.com/PredictableNews)
     - [An automated ACX podcast](https://danwahl.net/ac10-podcast/)
     - etc.
-- Biking around Chicago
-
+- (e-)Biking around Chicago
 
 ## I’m really good at
 
@@ -87,6 +86,8 @@ I'm just ok at dancing.
 
 - One Hundred Years of Solitude
 - A Confederacy of Dunces
+- The Lathe of Heaven
+    - Also the Hanish Cycle
 - 1950s Science Fiction
 - Everything by Vonnegut and DFW
 
@@ -103,11 +104,11 @@ I also have an affinity for low-key romcoms like:
 - Under the Tuscan Sun
 - How Do You Know?
 - Sleepless in Seattle
-- You've Got Mail
+    - You've Got Mail
 - The Holiday
 - American Ultra(?)
 - An American President
-- Dave
+    - Dave
 - The Little Hours
 - Blast from the Past
 
