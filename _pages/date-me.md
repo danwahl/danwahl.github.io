@@ -10,7 +10,7 @@ OkCupid used to be pretty great, right? Back in 2012 or so? Instead of swiping y
 
 Then _something(s) happened_ and online dating stopped working.
 
-One of those "somethings" was simply getting older. Older and somewhat jaded. And if not exactly less attractive, then at least more of an acquired taste.
+One of those "somethings" was simply getting older. Older and somewhat jaded, in my case. And if not exactly less attractive, then at least more of an acquired taste.
 
 Also there was the rise of the Tinder Clones (of which OKC is now one of the worst). Also Instagram filters and Snapchat lenses. Also, you know, a pandemic.
 
@@ -53,8 +53,8 @@ Hi, I'm Dan. Some stats:
 
 - Engineering robots for a living (I run my own consultancy)
     - See my [About](/about) page for some videos
-- Co-organizing [EA Chicago](https://eachicago.com)
-- [LEEP](https://leadelimination.org) board member
+- Co-organizing at [EA Chicago](https://eachicago.com)
+- Board member-ing at [LEEP](https://leadelimination.org)
 - [Making things](http://github.com/danwahl) such as:
     - [A portable CO<sub>2</sub> meter](https://github.com/danwahl/adanet-co2-monitor)
     - [A Twitter bot for prediction markets](https://twitter.com/PredictableNews)
@@ -97,12 +97,12 @@ See [my Goodreads profile](https://www.goodreads.com/user/show/19026772-dan-wahl
 
 Pseudo-intellectual sci-fi movies involving time loops (it's a Netflix genre).
 
-I also have an affinity for low-key romcoms like:
+I also have a special place for low-key romcoms like:
 
 - Just Like Heaven
+    - How Do You Know?
 - Return To Me
 - Under the Tuscan Sun
-- How Do You Know?
 - Sleepless in Seattle
     - You've Got Mail
 - The Holiday
