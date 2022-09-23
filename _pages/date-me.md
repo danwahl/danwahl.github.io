@@ -79,9 +79,7 @@ Hi, I'm Dan. Some stats:
 - Swimming (though I did recently [take lessons](https://forum.effectivealtruism.org/posts/ePGNapJo4tpHFbhAo/creative-writing-contest-swimming-lessons))
 - Singing harmony
 
-### I'm just ok at
-
-- Dancing
+I'm just ok at dancing.
 
 ## Favorite books, movies, shows, music, and food
 
