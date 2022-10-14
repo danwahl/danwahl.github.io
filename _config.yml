@@ -29,9 +29,6 @@ collections:
   pages:
     output: true
     permalink: /:collection/:name
-  redirects:
-    output: true
-    permalink: /:collection/:name
 
 header_pages:
   - _pages/about.md
