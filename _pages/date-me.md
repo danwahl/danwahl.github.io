@@ -4,13 +4,13 @@ title: Date Me
 excerpt: Or don't. Probably don't.
 ---
 
-**Edit 2022-09-22: This is a work in progress.**
+**Edit 2022-09-22: Like me, this profile is a work in progress.**
 
 OkCupid used to be pretty great, right? Back in 2012 or so? Instead of swiping you could _search_. The compatibility score _meant something_. You could just _send people messages_ (ok maybe that part wasn't so great for everybody).
 
 Then _something(s) happened_ and online dating stopped working.
 
-One of those "somethings" was simply getting older. Older and somewhat jaded, in my case. And if not exactly less attractive, then at least more of an acquired taste.
+One of those "somethings" was that we got older. Older and somewhat jaded, in my case. And if not exactly less attractive, then at least more of an acquired taste.
 
 Also there was the rise of the Tinder Clones (of which OKC is now one of the worst). Also Instagram filters and Snapchat lenses. Also, you know, a pandemic.
 
@@ -45,9 +45,10 @@ Hi, I'm Dan. Some stats:
 - OCD-ish (especially the "O"), but currently well-maintained via meds/therapy
 - 5'9" (176 cm)
     - ~140 lbs (~64 kg)
+- MS from University of Michigan (2007)
+    - BS from SUNY Buffalo (2006)
 - Politically liberal (more libertarian than leftist)
 - Aspiring [Effective Altruist](/blog/personal-giving)
-
 
 ## What I’m doing with my life
 
@@ -111,7 +112,6 @@ I also have a special place for low-key romcoms like:
     - Dave
 - The Little Hours
 - Blast from the Past
-
 
 ### Shows
 
