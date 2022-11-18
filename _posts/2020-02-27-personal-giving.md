@@ -2,6 +2,7 @@
 layout: post
 title: Personal Giving
 excerpt: On my quest to become a better person than Mitt Romney.
+hidden: true
 ---
 
 I remember the moment I first suspected that Mitt Romney might be a good person. It was during a 2012 presidential debate against Barack Obama, and I was watching from my apartment in just outside of DC. Although my estimation of Romney has [improved considerably](https://www.politico.com/news/2020/02/05/mitt-romney-impeachment-vote-speech-transcript-110849) in recent months, at the time he was still the [47%](https://en.wikipedia.org/wiki/Mitt_Romney_2012_presidential_campaign#47%_comment), [binders-full-of-women](https://en.wikipedia.org/wiki/Binders_full_of_women), [strap-the-dog-to-the-car-roof](https://en.wikipedia.org/wiki/Mitt_Romney_2012_presidential_campaign#Dog_incident) candidate, and I despised everything he stood for (in a way that seems heartbreakingly naive post-2016). And so, watching the debate that night, I was surprised to learn that Romney donated 10% of his yearly income to charity, a substantial sum given his vast wealth.
