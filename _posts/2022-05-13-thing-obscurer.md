@@ -2,6 +2,7 @@
 layout: post
 title: Thing Obscurer
 excerpt: Complicated Stuff Without Simple Words.
+hidden: true
 ---
 
 XKCD author Randall Munroe's [Thing Explainer](https://xkcd.com/thing-explainer/) used only the most common [ten hundred words](/assets/js/thing-obscurer/words.js) to simply explain complicated topics. [Nydwracu's Fnords](https://slatestarcodex.com/2014/05/24/nydwracus-fnords/) did nearly the opposite, removing everything non-essential and clearly exposing the underlying message.
@@ -79,6 +80,8 @@ As an example, take this recent [Politico piece](https://www.politico.com/news/m
 > Flynn contend deadly robots type boogeyman donor Sam Bankman-Fried eccentric 30-- cryptocurrency billionaire chief donor PAC 10 million Flynn’s campaign Bankman-Fried’s support Flynn baffled observers energized Flynn’s opponents cast billionaire’s intervention shady carpetbagging crypto-baron influence cryptocurrency regulation Washington February rival campaign manager denounced Bankman-Fried “ tax-dodging billionaire”
 
 There's nothing _wrong_ with this per-se, in the sense that the author is simply reporting on what Flynn and his opponents have said. But it's also akin to [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt), via the uncritical use/repetition of charged language like `[deadly, boogeyman, baffled, shady, carbetbagging, baron, denounced, tax-dodging]`. Words like this are meant to emotionally _engage_ (and maybe even _entertain_), but not necessarily _inform_ the reader. And when it comes to news, I mostly just want to be informed.
+
+**Edit 2022-11-21: This example obviously did not age well, but the general point remains (I think).**
 
 # Improvements
 
