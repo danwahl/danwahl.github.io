@@ -4,6 +4,8 @@ title: Date Me
 excerpt: Or don't. Probably don't.
 ---
 
+**Edit 2023-05-07: New pics!**
+
 **Edit 2022-09-22: Like me, this profile is a work in progress.**
 
 OkCupid used to be pretty great, right? Back in 2012 or so? Instead of swiping you could _search_. The compatibility score _meant something_. You could just _send people messages_ (ok maybe that part wasn't so great for everybody).
@@ -27,8 +29,8 @@ In the meantime, let's get back to basics.
 
 # Profile
 
-[![selfie.jpg]({{ site.baseurl }}/assets/images/date-me/selfie.jpg "selfie"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/selfie.jpg)
-<cite>Everybody gets one bathroom selfie. This is the most recent photo (fall 2021?). My hair is currently about twice as long, but otherwise not much has changed. More photos [below](#photos).</cite>
+[![glasses.jpg]({{ site.baseurl }}/assets/images/date-me/glasses.jpg "glasses"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/glasses.jpg)
+<cite>Trying on my soon-to-be new glasses at Warby Parker. More photos [below](#photos).</cite>
 
 ## My self-summary
 
@@ -36,7 +38,7 @@ Hi, I'm Dan. Some stats:
 
 - ~{{ site.time | date: '%Y' | minus: 1984 }} years old
 - Based in Chicago (Lincoln Sq)
-    - In Denver ~once a month for work
+    - In Denver regularly for work
     - From Rochester, NY (most of my family still lives there)
 - [Vegan since ~2016](/blog/against-thanksgiving)
 - Easygoing [relationship anarchist](https://en.wikipedia.org/wiki/Relationship_anarchy)
@@ -44,7 +46,7 @@ Hi, I'm Dan. Some stats:
     - Demisexual maybe? Or at least sometimes slow to warm up
 - OCD-ish (especially the "O"), but currently well-maintained via meds/therapy
 - 5'9" (176 cm)
-    - ~140 lbs (~64 kg)
+    - ~150 lbs (~68 kg)
 - MS from University of Michigan (2007)
     - BS from SUNY Buffalo (2006)
 - Politically liberal (more libertarian than leftist)
@@ -54,14 +56,13 @@ Hi, I'm Dan. Some stats:
 
 - Engineering robots for a living (I run my own consultancy)
     - See my [About](/about) page for some videos
-- Co-organizing at [EA Chicago](https://eachicago.com)
 - Board member-ing at [LEEP](https://leadelimination.org)
 - [Making things](http://github.com/danwahl) such as:
     - [A portable CO<sub>2</sub> meter](https://github.com/danwahl/adanet-co2-monitor)
     - [A Twitter bot for prediction markets](https://twitter.com/PredictableNews)
     - [An automated ACX podcast](https://danwahl.net/ac10-podcast/)
     - etc.
-- (e-)Biking around Chicago
+- Bouldering and (e-)biking around Chicago
 
 ## I’m really good at
 
@@ -178,23 +179,22 @@ In the long-term, I'm not sure! I've recently gone from being a "no thanks" to a
 - You want to have kids _soon_
 - You don't like truth-seeking conversational norms
 - You're not willing to eat vegan around me (within reason)
-- You're closely affiliated with the EA Chicago group (for dating, at least)
 
 But if you're on the fence, you might as well just say [hi](mailto:hi@danwahl.net)!
 
 # Photos
 
-[![umbrella.jpg]({{ site.baseurl }}/assets/images/date-me/umbrella.jpg "umbrella"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/umbrella.jpg)
-<cite>From a damp but otherwise pleasant wedding in 2019. Many of my pictures are from weddings, but fair warning that I probably haven't worn a suit since.</cite>
+[![climbing.jpg]({{ site.baseurl }}/assets/images/date-me/climbing.jpg "climbing"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/climbing.jpg)
+<cite>Getting back into climbing after a ~10 year broken-hand hiatus.</cite>
 
-[![cat.jpg]({{ site.baseurl }}/assets/images/date-me/cat.jpg "cat"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/cat.jpg)
-<cite>This is Tatlin, my cat companion of 10+ years. She is regal but <i>very</i> shy. +1 if you manage to befriend her, but don't feel bad if she hides under the bed.</cite>
+[![pre-coffee.jpg]({{ site.baseurl }}/assets/images/date-me/pre-coffee.jpg "pre-coffee"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/pre-coffee.jpg)
+<cite>At Buzz Mill in Austin, a 24 hour coffee shop/bar, which is the best kind of bar (and coffee shop).</cite>
 
-[![guitar.jpg]({{ site.baseurl }}/assets/images/date-me/guitar.jpg "guitar"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/guitar.jpg)
-<cite>Wedding pic #2, playing with my [highschool band](http://inmidvideo.com) at our drummer's wedding in 2016. +1 if you're a musician of some variety.</cite>
+[![post-coffee.jpg]({{ site.baseurl }}/assets/images/date-me/post-coffee.jpg "post-coffee"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/post-coffee.jpg)
+<cite>However, I do not mix well with caffeine.</cite>
 
-[![jacket.jpg]({{ site.baseurl }}/assets/images/date-me/jacket.jpg "jacket"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/jacket.jpg)
-<cite>Already starting to run out of good recent photos, so here's a staged shot of me trying on a jacket in 2017 or so.</cite>
+[![ibs.jpg]({{ site.baseurl }}/assets/images/date-me/ibs.jpg "ibs"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/ibs.jpg)
+<cite>...</cite>
 
-[![wedding.jpg]({{ site.baseurl }}/assets/images/date-me/wedding.jpg "wedding"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/wedding.jpg)
-<cite>Wedding pic #3, from ~2018.</cite>
+[![dream-baby.jpg]({{ site.baseurl }}/assets/images/date-me/dream-baby.jpg "dream-baby"){: .center-image }]({{ site.baseurl }}/assets/images/date-me/dream-baby.jpg)
+<cite>Dream, baby.</cite>
