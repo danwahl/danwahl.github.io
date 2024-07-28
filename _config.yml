@@ -31,4 +31,5 @@ collections:
     permalink: /:collection/:name
 
 header_pages:
+  - _pages/merch.md
   - _pages/about.md
