@@ -8,6 +8,7 @@ layout: home
 
 - [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): is your air ok?
 - [LinkedIn Matching](/pages/linkedin-matching): who works at companies that match donations?
+- [Paper Match](https://papermat.ch/): what if dating apps were pay-per-match?
 - [Schelling Out](https://schelling-out.streamlit.app/): where should you live?
 - [XKCD Color Picker](/pages/xkcd-color-picker): what color is that?
 
