@@ -49,6 +49,7 @@ layout: home
 
 ### Misc.
 
+- [AC10 Podcast](/ac10-podcast)
 - [Date Me](/pages/date-me)
 - [Merch](/pages/merch)
 
