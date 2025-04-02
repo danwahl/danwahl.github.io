@@ -30,7 +30,7 @@ layout: home
 - [FarmKind](https://www.farmkind.giving/): 2025–Present
 - [Outrider](https://www.outrider.ai/): 2018–Present
 - [HDT Robotics](https://www.hdtrobotics.com/): 2010–Present
-- [Picknik Robotics](https://picknik.ai/): 2024–2025
+- [PickNik Robotics](https://picknik.ai/): 2024–2025
 - [AppHarvest](https://en.wikipedia.org/wiki/AppHarvest): 2022
 - [Ilumexico](https://ilumexico.mx/):  2019–2020
 - [Landscape Capital](https://www.landscapecapital.com/): 2018–2019
