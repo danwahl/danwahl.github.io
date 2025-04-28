@@ -6,10 +6,13 @@ layout: home
 
 ### Some projects
 
+- [2tpg](https://huggingface.co/drwahl/2tpg): what if you predict the previous token?
+- [A-FaNTasia Benchmark](https://github.com/danwahl/afantasia): which LLMs have aphantasia?
 - [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): is your air ok?
 - [LinkedIn Matching](/pages/linkedin-matching): who works at companies that match donations?
 - [Paper Match](https://papermat.ch/): what if dating apps were pay-per-match?
 - [Schelling Out](https://schelling-out.streamlit.app/): where should you live?
+- [Unblessed.org](https://unblessed.org): how many sneezes go unblessed?
 - [XKCD Color Picker](/pages/xkcd-color-picker): what color is that?
 
 ### Some fiction
@@ -25,7 +28,6 @@ layout: home
 - [Blog](/blog): 2016–2022
 
 ### Work clients[^1]
-
 
 - [FarmKind](https://www.farmkind.giving/): 2025–Present
 - [Outrider](https://www.outrider.ai/): 2018–Present
@@ -66,4 +68,3 @@ layout: home
 
 [^1]: [Consequential Technologies, LLC](https://consequential.tech/)
 [^2]: [Ordinary Evidence](https://ordinaryevidence.org/)
-
