@@ -18,7 +18,7 @@ layout: home
 ### Some fiction
 
 - [Winston Churchill and the Great Acceleration](pages/Winston_Churchill_and_the_Great_Acceleration): 2025
-- [Wonderland, Inc.](/wonderland-inc): 2024
+- [Wonderland, Inc.](/wonderland-inc): 2025
 - [Alison Wonderland](/alison-wonderland): 2024
 
 ### Other writing
