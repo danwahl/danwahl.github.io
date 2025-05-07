@@ -4,16 +4,17 @@ layout: home
 
 ## Hi I'm Dan
 
-### Some projects
+### Recent projects
 
-- [2tpg](https://huggingface.co/drwahl/2tpg): what if you predict the previous token?
+- [SpeciEval](https://github.com/danwahl/specieval): what do LLMs think of animals?
+- [Unblessed.org](https://unblessed.org): how many sneezes go unblessed?
 - [A-FaNTasia Benchmark](https://github.com/danwahl/afantasia): which LLMs have aphantasia?
+- [2tpg](https://huggingface.co/drwahl/2tpg): what if you predict the previous token?
+- [Schelling Out](https://schelling-out.streamlit.app/): where should we all live?
+- [Paper Match](https://papermat.ch/): what if dating apps were pay-per-match?
+- [XKCD Color Picker](/pages/xkcd-color-picker): what color is that?
 - [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): is your air ok?
 - [LinkedIn Matching](/pages/linkedin-matching): who works at companies that match donations?
-- [Paper Match](https://papermat.ch/): what if dating apps were pay-per-match?
-- [Schelling Out](https://schelling-out.streamlit.app/): where should you live?
-- [Unblessed.org](https://unblessed.org): how many sneezes go unblessed?
-- [XKCD Color Picker](/pages/xkcd-color-picker): what color is that?
 
 ### Some fiction
 
@@ -55,14 +56,11 @@ layout: home
 - [Date Me](/pages/date-me)
 - [Merch](/pages/merch)
 
-### You can find me on
+### Stay in touch
 
+- [Email](mailto:hi@danwahl.net)
 - [Github](https://github.com/danwahl)
 - [LinkedIn](https://www.linkedin.com/in/drwahl/)
-
-### You can reach me at
-
-- [hi@danwahl.net](mailto:hi@danwahl.net)
 
 ---
 
