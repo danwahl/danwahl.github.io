@@ -7,7 +7,6 @@ layout: home
 ### Recent projects
 
 - [SpeciEval](https://github.com/danwahl/specieval): what do LLMs think of animals?
-- [Unblessed.org](https://unblessed.org): how many sneezes go unblessed?
 - [A-FaNTasia Benchmark](https://github.com/danwahl/afantasia): which LLMs have aphantasia?
 - [2tpg](https://huggingface.co/drwahl/2tpg): what if you predict the previous token?
 - [Schelling Out](https://schelling-out.streamlit.app/): where should we all live?
@@ -42,6 +41,7 @@ layout: home
 
 - [Lead Exposure Elimination Project](https://leadelimination.org/): 2020–Present
 - [Donations](https://docs.google.com/spreadsheets/d/e/2PACX-1vTb21bp3mWFiWo3KQgGVpEVgP5UdZDdvFhQHHbYlEcD1qnTVK1DNJGGHMvTroZ6Wdh4EjQRGMGYM6Ai/pubhtml?gid=1755635332&single=true): 2011–Present
+- [Unblessed.org](https://unblessed.org): 2025
 - [Animal Welfare Dashboard](https://animal-welfare-dashboard.streamlit.app/): 2024
 
 ### Music
