@@ -55,6 +55,7 @@ layout: home
 - [AC10 Podcast](/ac10-podcast)
 - [Date Me](/pages/date-me)
 - [Merch](/pages/merch)
+- [Resume](/assets/images/about/drwahl-resume.pdf)
 
 ### Stay in touch
 
