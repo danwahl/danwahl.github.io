@@ -7,7 +7,7 @@ layout: home
 ### Recent projects
 
 - [SpeciEval](https://github.com/danwahl/specieval): what do LLMs think of animals?
-- [A-FaNTasia Benchmark](https://github.com/danwahl/afantasia): which LLMs have aphantasia?
+- [A-Fantasia Benchmark](https://github.com/danwahl/afantasia): which LLMs have aphantasia?
 - [2tpg](https://huggingface.co/drwahl/2tpg): what if you predict the previous token?
 - [Schelling Out](https://schelling-out.streamlit.app/): where should we all live?
 - [Paper Match](https://papermat.ch/): what if dating apps were pay-per-match?
