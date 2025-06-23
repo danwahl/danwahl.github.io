@@ -29,16 +29,16 @@ layout: home
 
 ### Work clients[^1]
 
-- [FarmKind](https://www.farmkind.giving/): 2025–Present
+- [PickNik Robotics](https://picknik.ai/): 2024–Present
 - [Outrider](https://www.outrider.ai/): 2018–Present
 - [HDT Robotics](https://www.hdtrobotics.com/): 2010–Present
-- [PickNik Robotics](https://picknik.ai/): 2024–2025
 - [AppHarvest](https://en.wikipedia.org/wiki/AppHarvest): 2022
 - [Ilumexico](https://ilumexico.mx/):  2019–2020
 - [Landscape Capital](https://www.landscapecapital.com/): 2018–2019
 
 ### Altruistic stuff[^2]
 
+- [FarmKind](https://www.farmkind.giving/): 2025–Present
 - [Lead Exposure Elimination Project](https://leadelimination.org/): 2020–Present
 - [Donations](https://docs.google.com/spreadsheets/d/e/2PACX-1vTb21bp3mWFiWo3KQgGVpEVgP5UdZDdvFhQHHbYlEcD1qnTVK1DNJGGHMvTroZ6Wdh4EjQRGMGYM6Ai/pubhtml?gid=1755635332&single=true): 2011–Present
 - [Unblessed.org](https://unblessed.org): 2025
