@@ -59,7 +59,7 @@ layout: home
 
 ### Stay in touch
 
-- [Email](mailto:hi@danwahl.net)
+- [hi@danwahl.net](mailto:hi@danwahl.net)
 - [Github](https://github.com/danwahl)
 - [LinkedIn](https://www.linkedin.com/in/drwahl/)
 
