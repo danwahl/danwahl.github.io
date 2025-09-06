@@ -1,6 +1,7 @@
 ---
 layout: page
 title: cherry valley demos
+redirect_from: /cherry-valley-demos
 ---
 
 1. week1

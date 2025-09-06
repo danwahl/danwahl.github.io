@@ -2,6 +2,7 @@
 layout: page
 title: Date Me
 excerpt: Or don't. Probably don't.
+redirect_from: /date-me
 ---
 
 **Edit 2023-05-07: New pics!**
@@ -24,8 +25,8 @@ And so here we are a decade later writing bespoke "Date Me" docs, God help us. S
 
 In the meantime, let's get back to basics.
 
-* table of contents
-{: toc }
+- table of contents
+  {: toc }
 
 # Profile
 
@@ -38,38 +39,38 @@ Hi, I'm Dan. Some stats:
 
 - ~{{ site.time | date: '%Y' | minus: 1984 }} years old
 - Based in Chicago (Lincoln Sq)
-    - In Denver regularly for work
-    - From Rochester, NY (most of my family still lives there)
+  - In Denver regularly for work
+  - From Rochester, NY (most of my family still lives there)
 - [Vegan since ~2016](/blog/against-thanksgiving)
 - Easygoing [relationship anarchist](https://en.wikipedia.org/wiki/Relationship_anarchy)
-    - Cis, straight
-    - Demisexual maybe? Or at least sometimes slow to warm up
+  - Cis, straight
+  - Demisexual maybe? Or at least sometimes slow to warm up
 - OCD-ish (especially the "O"), but currently well-maintained via meds/therapy
 - 5'9" (176 cm)
-    - ~150 lbs (~68 kg)
+  - ~150 lbs (~68 kg)
 - MS from University of Michigan (2007)
-    - BS from SUNY Buffalo (2006)
+  - BS from SUNY Buffalo (2006)
 - Politically liberal (more libertarian than leftist)
 - Aspiring [Effective Altruist](/blog/personal-giving)
 
 ## What I’m doing with my life
 
 - Engineering robots for a living (I run my own consultancy)
-    - See my [About](/about) page for some videos
+  - See my [About](/about) page for some videos
 - Board member-ing at [LEEP](https://leadelimination.org)
 - [Making things](http://github.com/danwahl) such as:
-    - [A portable CO<sub>2</sub> meter](https://github.com/danwahl/adanet-co2-monitor)
-    - [A Twitter bot for prediction markets](https://twitter.com/PredictableNews)
-    - [An automated ACX podcast](https://danwahl.net/ac10-podcast/)
-    - etc.
+  - [A portable CO<sub>2</sub> meter](https://github.com/danwahl/adanet-co2-monitor)
+  - [A Twitter bot for prediction markets](https://twitter.com/PredictableNews)
+  - [An automated ACX podcast](https://danwahl.net/ac10-podcast/)
+  - etc.
 - Bouldering and (e-)biking around Chicago
 
 ## I’m really good at
 
 - Sports that involve balls
-    - Fun fact: "ball" was my first word
+  - Fun fact: "ball" was my first word
 - Fixing your bike
-    - Fixing your computer
+  - Fixing your computer
 - Cat whispering
 - ƨɿoɿɿim ni ƨϱniʜɈ ϱnibɒɘЯ
 
@@ -89,7 +90,7 @@ I'm just ok at dancing.
 - One Hundred Years of Solitude
 - A Confederacy of Dunces
 - The Lathe of Heaven
-    - Also the Hanish Cycle
+  - Also the Hanish Cycle
 - 1950s Science Fiction
 - Everything by Vonnegut and DFW
 
@@ -102,15 +103,15 @@ Pseudo-intellectual sci-fi movies involving time loops (it's a Netflix genre).
 I also have a special place for low-key romcoms like:
 
 - Just Like Heaven
-    - How Do You Know?
+  - How Do You Know?
 - Return To Me
 - Under the Tuscan Sun
 - Sleepless in Seattle
-    - You've Got Mail
+  - You've Got Mail
 - The Holiday
 - American Ultra(?)
 - An American President
-    - Dave
+  - Dave
 - The Little Hours
 - Blast from the Past
 
