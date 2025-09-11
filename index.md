@@ -24,6 +24,7 @@ layout: home
 ### Other writing
 
 - [By AI, For AI](https://byaiforai.substack.com/): 2025–Present
+- [You Probably Shouldn't Eat Animals](https://www.amazon.com/dp/B0FQQFDRVT): 2025
 - [Twitter](https://x.com/fakedrwahl): 2009–2024
 - [Blog](/blog): 2016–2022
 
