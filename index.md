@@ -15,21 +15,22 @@ layout: home
 - [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): is your air ok?
 - [LinkedIn Matching](/pages/linkedin-matching): who works at companies that match donations?
 
-### Some fiction
+### Books
 
-- [Winston Churchill and the Great Acceleration](pages/Winston_Churchill_and_the_Great_Acceleration): 2025
+- [You Probably Shouldn't Eat Animals](https://www.amazon.com/dp/B0FQQFDRVT): 2025
 - [Wonderland, Inc.](https://amazon.com/dp/B0FJXQ58L2): 2025
 - [Alison Wonderland](/alison-wonderland): 2024
 
 ### Other writing
 
 - [By AI, For AI](https://byaiforai.substack.com/): 2025–Present
-- [You Probably Shouldn't Eat Animals](https://www.amazon.com/dp/B0FQQFDRVT): 2025
+- [Winston Churchill and the Great Acceleration](pages/Winston_Churchill_and_the_Great_Acceleration): 2025
 - [Twitter](https://x.com/fakedrwahl): 2009–2024
 - [Blog](/blog): 2016–2022
 
 ### Work clients[^1]
 
+- [Globus Medical](https://www.globusmedical.com/musculoskeletal-solutions/excelsiustechnology/): 2025
 - [PickNik Robotics](https://picknik.ai/): 2024–Present
 - [Outrider](https://www.outrider.ai/): 2018–Present
 - [HDT Robotics](https://www.hdtrobotics.com/): 2010–Present
