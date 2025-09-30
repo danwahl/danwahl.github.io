@@ -8,11 +8,12 @@ layout: home
 
 - [SpeciEval](/specieval): what do LLMs think of animals?
 - [A-Fantasia Benchmark](/afantasia): which LLMs have aphantasia?
+- [OpenRouter Pareto](https://openrouter-pareto.streamlit.app/): which LLMs do people use the most?
 - [2tpg](https://huggingface.co/drwahl/2tpg): what if you predict the previous token?
 - [Schelling Out](https://schelling-out.streamlit.app/): where should we all live?
 - [Paper Match](https://papermat.ch/): what if dating apps were pay-per-match?
 - [XKCD Color Picker](/pages/xkcd-color-picker): what color is that?
-- [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): is your air ok?
+- [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): how is your air?
 - [LinkedIn Matching](/pages/linkedin-matching): who works at companies that match donations?
 
 ### Books
