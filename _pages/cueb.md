@@ -4,5 +4,5 @@ title: CueB
 redirect_from:
   - /cueb
   - /redirects/cueb
-redirect_to: https://claude.ai/public/artifacts/62275aee-0108-428d-a54c-0edce61abee9
+redirect_to: https://claude.ai/public/artifacts/f042f7fc-ac47-4f92-bd5c-4e0c6dec3f6b
 ---
