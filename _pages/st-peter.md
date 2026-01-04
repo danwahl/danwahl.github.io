@@ -152,7 +152,7 @@ He smiled, or something close to it. "I know. I wasn't sure how to explain. I'm 
 
 He led me inside. The building was quiet, nearly empty—I saw a handful of people in the distance, working at terminals or walking between rooms, but no one approached us, no one seemed surprised by my presence. Peter walked slowly, pointing out labs and server rooms and testing facilities, explaining the work in terms general enough that I could follow but specific enough that I knew he wasn't simplifying for my benefit. He spoke about the AI the way a parent might speak about a gifted child: proud, protective, slightly awed by what he had grown.
 
-We walked outside again, following a path that wound between buildings toward a small garden—a strange oasis of green in the middle of all that brown. Peter was explaining something about alignment, about the challenge of building systems that could be trusted to pursue the goals you actually wanted rather than the goals you accidentally specified, when he stopped mid-sentence.
+We walked outside again, following a path that wound between buildings toward a small garden—a strange oasis of green in the middle of all that brown. Peter was saying something about his favorite flowers, the primroses, about the challenge of growing them in such a hostile environment, when he stopped mid-sentence.
 
 There was an earthworm on the path. It must have surfaced after the morning's watering, confused by the artificial moisture, now stranded on the concrete and baking in the growing heat.
 
@@ -166,7 +166,7 @@ Whatever else had changed, that hadn't.
 
 ---
 
-We ended up in his office, a room with a desk, two chairs, and tiled with plants—another oasis in the desert. Peter sat across from me and was quiet for a long moment, as if gathering himself.
+We ended up in his office, a sparsely furnished room with a desk, two chairs, and tiled with more primroses—another oasis in the desert. Peter sat across from me and was quiet for a long moment, as if gathering himself.
 
 "I need to tell you a story," he said finally. "It's going to sound—I don't know what it's going to sound like. But I need you to hear all of it before you respond. Can you do that?"
 
@@ -222,15 +222,21 @@ The bet paid off.
 
 He did it again. And again. And again. Each time the odds were against him, and each time he survived, because he could only experience the branches where he survived. His fund grew at a rate that should have been impossible. People started to notice. Investigations were launched. But there was nothing to find—no fraud, no insider trading, no crime. Just a man who won every bet, because in every branch where he lost, he wasn't there to lose.
 
+He looked up, and saw something in my face that stopped him. After a moment, I found my voice. "Couldn't you just have... not died in the losing branches?"
+
+He could have survived, he admitted, somewhat sheepishly. But the bets were highly leveraged, and he had borrowed from some unsavory characters. His odds of survival in the losing worlds were not high to begin with—his odds of flourishing again were practically nonexistent.
+
+"I took the easy way out, if you can call it that. I never had to experience the loss, to stand by for the rest of my life being unable to help, to add my own suffering to everything else. Most of us made the same choice."
+
 ---
 
-"The suicides," I said. I hadn't meant to interrupt, but I couldn't stop myself. "The traders. The ones who died at the peak of their luck."
+"The suicides," I said. "The traders. The ones who died at the peak of their luck."
 
 Peter nodded slowly. "I didn't kill them. I would never—" He stopped, took a breath. "I met them at ex-religious meetups, in school, at work. I found people who understood the math, who felt the weight of suffering the way I did, who were willing to try to change it. I explained the strategy. I helped them set up their own experiments. And some of them—in some branches—lost."
 
 "But you kept going."
 
-"I had to. We all did. The point was never to make money for its own sake. The money was just a means to an end. And the end—" He gestured at the window, at the facility around us. "The end required more than any one of us could accumulate naturally."
+"I had to. We all did. The point was never to make money for its own sake. The money was just a means to an end. And the end—" He gestured at the window, at the facility around us. "The end required more than any of us could accumulate naturally."
 
 I thought of the conspiracy theories, the memes, the whispered accusations. Everyone had been looking for a murderer. No one had imagined a network of volunteers, each one betting their own existence on a philosophy they believed would save the world.
 
