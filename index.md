@@ -32,7 +32,7 @@ layout: home
 
 ### Work clients[^1]
 
-- [Globus Medical](https://www.globusmedical.com/musculoskeletal-solutions/excelsiustechnology/): 2025
+- [Globus Medical](https://www.globusmedical.com/musculoskeletal-solutions/excelsiustechnology/): 2025–Present
 - [PickNik Robotics](https://picknik.ai/): 2024–Present
 - [Outrider](https://www.outrider.ai/): 2018–Present
 - [HDT Robotics](https://www.hdtrobotics.com/): 2010–Present

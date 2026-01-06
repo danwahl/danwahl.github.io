@@ -292,7 +292,7 @@ He told me about the network. The other believers, scattered across the world, e
 
 And in all of those regions—every branch where they won—they had agreed on one thing: a failsafe.
 
-See, a true believer would push the utopia button because they'd already decided it was right. They would have made up their mind years ago, committed themselves to the cause, and the final act would be a formality. But that wasn't what Peter wanted. That wasn't what any of them wanted.
+You see,a true believer would push the utopia button because they'd already decided it was right. They would have made up their mind years ago, committed themselves to the cause, and the final act would be a formality. But that wasn't what Peter wanted. That wasn't what any of them wanted.
 
 "The whole point is that it has to actually be good," he said. "Not just satisfy some criterion, not just follow some logic, but actually—genuinely—be the right thing to do. And the only way to know that is to have someone else make the final decision. To know throughout that, in the end, I'd need to justify my actions to someone who thinks for themselves. Someone who's skeptical enough to question everything, including me."
 
