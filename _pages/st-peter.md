@@ -26,7 +26,7 @@ Peter was one of these.
 
 ## Part One: The Classroom
 
-You might think it's unusual to remember a single student in such vivid detail decades later. And it would be, if not for what happened next.
+You might think it's unusual to remember a single student in such vivid detail, decades later. And it would be, if not for what happened after.
 
 He sat in the second row, which told me something. The front row was for performers, students who wanted to be seen engaging. The back was for skeptics and the hung-over. The second row was for people who were actually there to learn.
 
@@ -118,7 +118,7 @@ The conspiracy theories were inevitable. You'll remember the memes, if nothing e
 
 I didn't believe it either. I barely thought about it. Peter was a curiosity to me by then, a former student who'd become famous for reasons I didn't fully understand. I'd see his face in the news and feel a faint proprietary pride—I taught him, once, before he was anyone—but that was all. I had my own work, my own life, my own small concerns.
 
-Then his fund went dark. You remember this. The announcement that he was stepping back from active management, the transfer of assets, the months of silence. There was speculation, of course. Health problems. Legal troubles. A secret project. Peter said nothing, and his people said nothing, and eventually the press got bored and moved on.
+Then his fund went dark. You may remember this, too. The announcement that he was stepping back from active management, the transfer of assets, the months of silence. There was speculation, of course. Health problems. Legal troubles. A secret project. Peter said nothing, and his people said nothing, and eventually the press got bored and moved on.
 
 A year later, he bought the AI company.
 
