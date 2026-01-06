@@ -338,7 +338,7 @@ At the door, he paused. He didn't turn around.
 
 Then he stepped through, and closed it behind him.
 
-I sat frozen for a moment, then crossed the room, opened the door.
+I stood frozen for a moment, then crossed the room, opened the door.
 
 But Peter was already gone.
 
