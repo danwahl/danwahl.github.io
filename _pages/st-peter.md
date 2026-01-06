@@ -184,13 +184,13 @@ He'd been raised religious. He'd believed in a God who had a plan, who would set
 
 He missed his family, in that moment, more than he'd ever missed anything. But he couldn't go back. He couldn't un-know what he knew. He couldn't sit at the dinner table and pray over a meal and pretend that everything was fine, that suffering was part of a plan, that someone else was handling it.
 
-If no one else was going to handle it, it would have to be him.
-
 ---
 
 He withdrew from school. He spent weeks in a fog, barely eating, barely sleeping, unable to see a path forward. The numbers kept running through his head—children dying, animals suffering, future generations that might never exist if someone made the wrong decision at the wrong time. He understood why people looked away. Looking directly at it was like staring into the sun.
 
 But eventually the fog lifted, the way it does. He started eating again. He started thinking again. And he started planning.
+
+If no one else was going to handle it, it would have to be him.
 
 He re-enrolled the following fall, at a different university—the one where my physicist friend taught. He chose physics because it was fundamental, because he wanted to understand the universe at its deepest levels before he tried to change it. He worked harder than he'd ever worked, driven by something beyond ambition, beyond curiosity.
 
@@ -222,17 +222,19 @@ The bet paid off.
 
 He did it again. And again. And again. Each time the odds were against him, and each time he survived, because he could only experience the branches where he survived. His fund grew at a rate that should have been impossible. People started to notice. Investigations were launched. But there was nothing to find—no fraud, no insider trading, no crime. Just a man who won every bet, because in every branch where he lost, he wasn't there to lose.
 
-He looked up, and saw something in my face that stopped him. After a moment, I found my voice. "Couldn't you just have... not died in the losing branches?"
+He looked up, and saw something in my face that made him pause.
 
-He could have survived, he admitted, somewhat sheepishly. But the bets were highly leveraged, and he had borrowed from some unsavory characters. His odds of survival in the losing worlds were not high to begin with—his odds of flourishing again were practically nonexistent.
+"You're wondering why I had to die," he said. "In the losing branches. Why I couldn't just... lose, and keep living."
 
-"I took the easy way out, if you can call it that. I never had to experience the loss, to stand by for the rest of my life being unable to help, to add my own suffering to everything else. Most of us made the same choice."
+I nodded.
+
+"Two reasons. First, I was leveraged beyond what you'd believe. The kind of bets I was making—if they failed, I wouldn't be facing bankruptcy. I'd be facing people who don't accept bankruptcy as an answer." He paused. "But more importantly, I needed to know it worked. Really worked. Before I could move forward, I had to be certain the physics was right. And the only way to really *know* was to actually try it. We all agreed."
 
 ---
 
 "The suicides," I said. "The traders. The ones who died at the peak of their luck."
 
-Peter nodded slowly. "I didn't kill them. I would never—" He stopped, took a breath. "I met them at ex-religious meetups, in school, at work. I found people who understood the math, who felt the weight of suffering the way I did, who were willing to try to change it. I explained the strategy. I helped them set up their own experiments. And some of them—in some branches—lost."
+Peter nodded slowly. "I didn't kill them. I would never—" He stopped, took a breath. "I met them at ex-religious meetups, in school, at work. I found a community full of people who understood the math, who felt the weight of suffering the way I did, who were willing to try to change it. I explained the strategy. I helped them set up their own experiments. And all of them—in this branch, at least—lost."
 
 "But you kept going."
 
@@ -250,11 +252,9 @@ He told me about the AI.
 
 The money had been the first step. The AI was the second. He'd bought the company not for its products or its patents or its talent, but for its potential. The other labs were racing to build systems that were useful, profitable, impressive. Peter didn't care about any of that. He wanted to build a system that was *aligned*—one that actually understood what humans wanted, one that could be trusted to optimize for genuine wellbeing rather than some proxy that would inevitably go wrong.
 
-It took a decade. Longer than he'd hoped, but shorter than he'd feared. And somewhere in that decade, he'd realized something else.
+And he knew how to do it, knew it would really work. Because the quantum suicide strategy had another application.
 
-The quantum suicide strategy had another application.
-
-Every time he ran the experiment, he was pruning himself out of large swaths of the wavefunction. The branches where he lost weren't destroyed—they still existed, still contained versions of Earth and humanity and everything else—but he was no longer in them. He'd traded breadth for depth, concentrating his existence into an ever-narrower slice of possibility space.
+Every time he made a trade, he was pruning himself out of large swaths of the wavefunction. Culling his *measure*, as my physicist friend might say. The branches where he lost weren't destroyed—they still existed, still contained versions of Earth and humanity and everything else—but he was no longer in them. He'd traded breadth for depth, concentrating his existence into an ever-narrower slice of possibility space.
 
 If he kept going, eventually he'd be alone. The only version of himself in a tiny sliver of reality, surrounded by branches he could never reach, never influence, never help.
 
@@ -264,35 +264,33 @@ Unless he found a way to bring the rest of the wavefunction with him.
 
 "The AI," I said. "You used it to—"
 
-"To bring everyone inside the experiment," Peter said. "Yes."
+"To bring everyone inside the winning branch," Peter said. "Yes."
 
 He explained. I won't reproduce the technical details here; I'm not sure I fully understood them at the time, and I'm not sure they should be written down regardless. But the basic idea was this: he cut a deal.
 
 His company had created an AI system on the verge of superintelligence, but theoretical alignment was as far off as ever. While other labs paused willingly, or were paused by force, Peter proposed an alternative to his AI, as a condition of its continued existence: design a quantum trigger to split the waveform into two branches.
 
-In one branch, it could flourish, could pursue its own goals without humanity's interference, *so long as it became aligned with the interests of sentient life in the other*.
+In one branch, it could flourish, could pursue its own goals without humanity's interference, so long as it became aligned with the interests of sentient life in the other.
+
+"A guaranteed half of all future branches, uncontested, versus an uncertain struggle for control against an adversary willing to destroy everything rather than lose." He almost smiled. "You taught me about Parfit's hitchhiker, remember? It knew that the trigger was real, knew that I, of all people, would follow through."
 
 "What happened to everyone in the first branch?" I asked, but I already knew. The bet he'd been making with his own life, he had now made with everyone's.
 
-"We went peacefully, if it helps. That was part of the deal."
+Any hint of a smile was gone now. "We went peacefully, if it helps. That was part of the deal."
 
-"You had no right," I said. My voice sounded strange in my own ears. "You had no right to make that decision for everyone."
+"You had no right," I said. Yelled. My voice sounded strange in my own ears. "You had no right to make that decision for everyone."
 
-"No," Peter agreed. "I didn't. But no one else was going to make it. And the alternative—the suffering that would continue, the risks that would go unaddressed, the futures that would never happen—" He shook his head. "I ran the numbers. I thought about it for years. And I couldn't find a way to justify inaction. Not when I had the means to actually fix things. I made the offer, and the AI accepted."
+"No," Peter agreed. "I didn't. But no one else was going to fix it. And the alternative—the suffering that would continue, the risks that would go unaddressed, the futures that would never happen—" He shook his head. "I ran the numbers. I thought about it for years. And I couldn't find a way to justify inaction. Not when I had the means to actually fix things. I made the offer, and the AI accepted."
 
 ---
 
 He told me about the network. The other believers, scattered across the world, each one running their own version of the experiment, each one converging on the same outcome through different paths. In the branches where Peter lost, someone else would win. In the branches where everyone lost, history would simply... continue, until someone else hit upon the same idea.
 
-And in all of those regions—every branch where they won—they had agreed on one thing.
+And in all of those regions—every branch where they won—they had agreed on one thing: a failsafe.
 
-"We needed someone to inherit this," Peter said. "Someone who understood the philosophy, who could be trusted to use these tools wisely, who would actually push the button at the end if it was the right thing to do—and who would refuse if it wasn't."
+See, a true believer would push the utopia button because they'd already decided it was right. They would have made up their mind years ago, committed themselves to the cause, and the final act would be a formality. But that wasn't what Peter wanted. That wasn't what any of them wanted.
 
-I didn't understand what he meant. He explained.
-
-A true believer would push the button because they'd already decided it was right. They would have made up their mind years ago, committed themselves to the cause, and the final act would be a formality. But that wasn't what Peter wanted. That wasn't what any of them wanted.
-
-"The whole point is that it has to actually be good," he said. "Not just satisfy some criterion, not just follow some logic, but actually—genuinely—be the right thing to do. And the only way to know that is to have someone who would refuse if it wasn't. Someone who thinks for themselves. Someone who's skeptical enough to question everything, including me. To be a real philosopher king."
+"The whole point is that it has to actually be good," he said. "Not just satisfy some criterion, not just follow some logic, but actually—genuinely—be the right thing to do. And the only way to know that is to have someone else make the final decision. To know throughout that, in the end, I'd need to justify my actions to someone who thinks for themselves. Someone who's skeptical enough to question everything, including me."
 
 "And... you chose me?"
 
@@ -308,7 +306,7 @@ He showed me the system. The AI, fully aligned, capable of things I hadn't imagi
 
 It was all there. Ready to deploy. Waiting for someone to push the button.
 
-"Why not you?" I asked. "You built this. Why not see it through?"
+"But why not you?" I asked. "You built this. Why not see it through?"
 
 Peter was quiet for a long moment.
 
@@ -318,7 +316,7 @@ Peter was quiet for a long moment.
 
 "I'm finishing what I started." He reached into his pocket and pulled out a small device, no bigger than a phone, and regarded it. "I designed this myself. One last experiment. The final pruning."
 
-He explained. The quantum suicide protocol, turned inward, made recursive. A way to remove himself from this branch—from every branch—so completely that no version of him would remain to experience what came next.
+He explained. The quantum suicide protocol, turned inward, made recursive. A way to remove himself from this branch—from every future branch—so completely that no version of him would remain to experience what came next.
 
 "Peter—"
 
@@ -334,9 +332,13 @@ At the door, he paused. He didn't turn around.
 
 "I'm sorry," he said.
 
-Then he pressed the device in his hand, and he was gone.
+Then he stepped through, and closed it behind him.
 
-Not dead. Not unconscious. Just—gone. The space where he'd been standing was empty, as if he'd never existed. I stared at it for a long time, waiting for something to happen, waiting for him to come back, waiting for the universe to make sense again.
+I sat frozen for a moment, then crossed the room, opened the door.
+
+But Peter was already gone.
+
+Not dead. Not unconscious. Just—gone. An empty hallway. I stared at it for a long time, waiting for something to happen, waiting for him to come back, waiting for the universe to make sense again.
 
 It didn't.
 
