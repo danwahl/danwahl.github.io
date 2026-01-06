@@ -24,6 +24,7 @@ layout: home
 
 ### Other writing
 
+- [St. Peter](/pages/st-peter): 2026
 - [By AI, For AI](https://byaiforai.substack.com/): 2025–Present
 - [Winston Churchill and the Great Acceleration](pages/Winston_Churchill_and_the_Great_Acceleration): 2025
 - [Twitter](https://x.com/fakedrwahl): 2009–2024

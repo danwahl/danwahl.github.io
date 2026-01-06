@@ -1,5 +1,9 @@
 ---
 layout: home
+title: St. Peter
+redirect_from:
+  - /st-peter
+  - /redirects/st-peter
 ---
 
 # St. Peter
