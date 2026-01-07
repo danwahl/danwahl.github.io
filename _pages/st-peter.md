@@ -390,4 +390,4 @@ I know what he was. I know what he did. I know what he cost himself, and what he
 
 The gates of heaven, constructed by someone who no longer believed anyone was waiting on the other side.
 
-Except now someone is. Because he put us there.
+Except now someone is. Because he let us in.
