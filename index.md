@@ -6,6 +6,7 @@ layout: home
 
 ### Recent projects
 
+- [CadQueryEval](/cadqueryeval): how good are LLMs at CAD?
 - [SpeciEval](/specieval): what do LLMs think of animals?
 - [A-Fantasia Benchmark](/afantasia): which LLMs have aphantasia?
 - [OpenRouter Pareto](https://openrouter-pareto.streamlit.app/): which LLMs do people use the most?
