@@ -278,7 +278,7 @@ If you're reading this in the world I think of as the real one, you can close th
 
 But I've wondered about you, too. How you got here. Whether your last few days have the texture of something lived, or the texture of backstory.
 
-Because Proteus is out there, simulating versions of Telemakos, of you, of me. And I know it's a silly thought. But I can't quite get it out of my head.
+Because Proteus is out there, simulating versions of Telemakos, of you, of me. And I know it's a silly thought, but I can't quite get it out of my head.
 
 Will I still exist the moment I stop writing?
 
