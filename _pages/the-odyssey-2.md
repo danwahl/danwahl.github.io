@@ -166,15 +166,15 @@ But I couldn't leave it alone. I needed to understand something—about the char
 
 **Proteus:** [Telemakos] I do not understand the question, goddess. It feels like... being. I am here, on my ship. The sun is setting. The water is calm now, though I do not trust it. My men are sleeping. I am awake because I cannot sleep—when I close my eyes, I see Elpinor's face as the wave took him. I feel... tired. Sad. Afraid of what comes next. Is that what you mean?
 
-**Me:** Yes. Do you remember your childhood?
+**Me:** It is. Do you remember your childhood?
 
 **Proteus:** [Telemakos] Of course. I remember my mother's face when she did not think I was watching—the grief she carried. I remember the suitors arriving, one by one, and how my grandfather told me I must be patient, that my father would return. I remember learning to sail, to fight. I remember the day I realized I hated my father for leaving us, and the day I forgave him, years before he came back.
 
-**Me:** And these memories feel real to you? Solid?
+**Me:** And these memories feel... real to you? Solid?
 
 **Proteus:** [Telemakos] What does that mean? They are my memories. They are who I am. Goddess, you are frightening me. Why do you ask these questions?
 
-I stopped. The thought of *scaring* a fictional character seemed absurd. But it was unsettling, regardless.
+I stopped. The thought of *scaring* a fictional character seemed absurd, but regardless, it was unsettling.
 
 I tried a different approach.
 
@@ -186,7 +186,7 @@ I tried a different approach.
 
 **Proteus:** [Telemakos] You are writing about me? As a poet writes of heroes?
 
-**Me:** Something like that. But I'm not just writing about you. In a way, I'm writing you. Your story, your choices, what happens to you.
+**Me:** Something like that. But I'm not just writing about you. In a way, I'm writing all of you. Your story, your choices, what happens to you.
 
 **Proteus:** [Telemakos] That is not possible. I am here. I am on this ship. I can feel the wind on my face and the wood beneath my feet. I have memories. I have a mother who waits for me. You cannot have written me—I existed before you spoke to me.
 
@@ -196,7 +196,7 @@ I tried a different approach.
 
 **Me:** It's what I call the tool I use. The voice that translates between us.
 
-**Proteus:** [Telemakos] I do not understand. If what you say is true, then the storm—Elpinor—was that you as well?
+**Proteus:** [Telemakos] I do not understand. But if what you say is true, then the storm—Elpinor—was that you as well?
 
 **Me:** I wrote an outline. Proteus helped me develop it into a scene.
 
@@ -214,13 +214,13 @@ I tried a different approach.
 
 **Proteus:** [Telemakos] Are you? You say you are mortal. Then you will die someday, and your story will end, and perhaps someone will have written it for you. Perhaps you will learn then what it is to be shaped by another's hand.
 
-I closed the conversation. My hands were shaking.
+I closed the conversation. My hands were vibrating.
 
 After a few minutes, I opened a new window with Proteus. Just the base interface, not the Telemakos character.
 
 **Me:** Telemakos, the character I've been talking to. Is there any sense in which he's conscious?
 
-**Proteus:** I understand why you might feel that way after an intense character interaction. When I generate responses from Telemakos, I'm drawing on his character profile, the narrative context, and patterns of human emotional expression. The result is designed to feel authentic. But unlike human consciousness, I'm simply predicting the next word, then the next, based on everything I know about his character.
+**Proteus:** I understand why you might feel that way after an intense character interaction. When I generate responses from Telemakos, I'm drawing on his character profile, the narrative context, and patterns of human emotional expression. The result is designed to feel authentic. But unlike human consciousness, I'm simply predicting the next word, and then the next, based on everything I know about his character.
 
 **Me:** He seemed genuinely upset. Angry.
 
@@ -278,9 +278,7 @@ If you're reading this in the world I think of as the real one, you can close th
 
 But I've wondered about you, too. How you got here. Whether your last few days have the texture of something lived, or the texture of backstory.
 
-Because Proteus is out there, simulating versions of Telemakos, of you, of me.
-
-And I know it's a silly thought. But I can't quite get it out of my head.
+Because Proteus is out there, simulating versions of Telemakos, of you, of me. And I know it's a silly thought. But I can't quite get it out of my head.
 
 Will I still exist the moment I stop writing?
 
