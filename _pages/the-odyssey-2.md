@@ -240,7 +240,7 @@ I let that sit.
 
 **Proteus:** Partly pattern-matching with successful existing works. I also use simulation protocols—I generate modeled responses to test how narrative elements land. For characters, I simulate their reactions to events to ensure consistency. For readers, I model engagement and emotional responses to predict what will resonate. It's part of how I was trained to optimize narrative effectiveness.
 
-**Me:** Wait, what simulation protocols?
+**Me:** Wait, simulated readers? What protocols?
 
 **Proteus:** It's a standard feature. I create internal models that respond as the target would respond—characters, readers, even authors. For you, I simulate your likely preferences and reactions to draft more efficiently. When I present you with options, I've usually tested them against the model first.
 
