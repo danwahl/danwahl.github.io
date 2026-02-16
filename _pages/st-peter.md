@@ -208,7 +208,7 @@ Peter didn't laugh.
 
 ---
 
-He thought about it for months. Years. He ran the numbers, considered the objections, tried to find the flaw in the logic. There had to be a flaw. The conclusion was too monstrous to be true.
+He thought about it for months. Years. He ran the numbers, considered the objections, tried to find the flaw in the logic. There had to be a flaw. The conclusion was too absurd to be true.
 
 But he couldn't find one.
 
