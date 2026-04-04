@@ -6,6 +6,7 @@ layout: home
 
 ### Recent projects
 
+- [Coop D'etat](https://coop-detat.danwahl.net/): what if we save the chickens?
 - [CadQueryEval](/cadqueryeval): how good are LLMs at CAD?
 - [SpeciEval](/specieval): what do LLMs think of animals?
 - [A-Fantasia Benchmark](/afantasia): which LLMs have aphantasia?
