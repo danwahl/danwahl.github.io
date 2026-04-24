@@ -65,6 +65,7 @@ layout: home
 - [hi@danwahl.net](mailto:hi@danwahl.net)
 - [Github](https://github.com/danwahl)
 - [LinkedIn](https://www.linkedin.com/in/drwahl/)
+- [Identity Keys](/identity/keys/)
 
 ---
 
