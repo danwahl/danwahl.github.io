@@ -1,3 +1,10 @@
+---
+layout: home
+title: Identity Keys
+permalink: /identity/keys/
+redirect_from: /identity/keys.html
+---
+
 # Identity Keys
 
 This page lists cryptographic keys associated with Dan Wahl (danwahl.net).

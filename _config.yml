@@ -32,3 +32,6 @@ collections:
 
 header_pages:
   - _pages/about.md
+
+include: 
+  - ".well-known"
