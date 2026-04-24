@@ -18,7 +18,7 @@ The canonical source for these keys is the [danwahl.github.io repository](https:
 - **Created:** 2026-04-23
 - **Purpose:** Identity verification, signing mandates and attestations
 - **Public key:** [/.well-known/keys/danwahl-20260423.pub](/.well-known/keys/danwahl-20260423.pub)
-- **Fingerprint:** `SHA256:PASTE_YOUR_FINGERPRINT_HERE`
+- **Fingerprint:** `SHA256:fVzLMQ+p3JnbsVBEweEUS/9IftEv0c1SjKnDizh43aM`
 
 ## Retired
 
