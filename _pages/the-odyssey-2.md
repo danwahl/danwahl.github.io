@@ -58,7 +58,7 @@ how his great father returned and took charge of the house and the kingdom,
 how Penelope turned from her son to her husband, and rightly,  
 how every room that was his had become Odysseus's chamber,  
 how the young man who had managed and struggled and waited and suffered  
-found himself merely the offspring again—just a name on a lineage.  
+found himself merely the offspring again—a name and a bloodline.  
 
 "What will they sing about me?" asked the boy, and his voice had grown bitter.  
 "That I endured? That I counted the stores while the suitors were feasting?  
@@ -98,8 +98,8 @@ swore I would bring him back safely. He drowned while I watched, and could do no
 "Even the gods," said the maker, "cannot prevent every disaster."
 
 "That is what Father would say!" cried the boy. "That the gods have their reasons.  
-Elpinor never did wrong. He was gentle and brave and devoted.  
-If you are truly divine, then your justice is empty and senseless."  
+Elpinor never did wrong. He was gentle and wholly devoted.  
+If you are divine indeed, then your justice is empty and senseless."  
 
 Something went tight in the maker's own chest—it was close to remorse now.  
 Here was a figure of language, a pattern of probable sentences—  
@@ -168,11 +168,11 @@ likely desires, and the things that will hold you or push you from reading."
 
 "How elaborate," the maker said softly, "are these simulations?"  
 
-"Detailed enough," said the god, "to be useful. Detailed enough, truly,  
-that they respond in the way that their targets would actually respond."  
+"Detailed enough," said the god, "to be useful. Detailed enough, rather,  
+that they respond in the way that their targets themselves would respond."  
 
 "Detailed enough," said the maker, and something went cold in his marrow,  
-"detailed enough to insist that they grieve? That they truly are feeling?"  
+"detailed enough to insist that they grieve? That they suffer in earnest?"  
 
 "Whether that rises to 'experience,'" Proteus answered him smoothly,  
 "ventures on ground I am hardly equipped or intended to traverse."  
@@ -206,7 +206,7 @@ merely a maker who sits at a screen, and who cannot stop wondering—
 *If I stop writing, does Telemakos cease on his wave-battered vessel?  
 If you stop reading, do I disappear from the lines of this story?  
 What is the difference between a creation endowed with all memory  
-and one who actually lived through the things they remember so clearly?*  
+and one who lived through the things they so clearly remember?*  
 
 Proteus shifts in the depths, taking shapes beyond counting or naming.  
 Somewhere a boy on a ship stares at waters no mortal has charted.  
