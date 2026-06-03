@@ -18,8 +18,9 @@ layout: home
 - [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): how is your air?
 - [LinkedIn Matching](/pages/linkedin-matching): who works at companies that match donations?
 
-### Writing
+### "Writing"
 
+- [The Ones Who Stay in Omelas](/pages/the-ones-who-stay-in-omelas): 2026
 - [The Odyssey 2](/pages/the-odyssey-2): 2026
 - [St. Peter](/pages/st-peter): 2026
 - [You Probably Shouldn't Eat Animals](https://www.amazon.com/dp/B0FQQFDRVT): 2025
