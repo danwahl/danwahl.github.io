@@ -6,7 +6,7 @@ layout: home
 
 ### Recent projects
 
-- [AnimaSim](https://github.com/danwahl/animasim): what if robotics simulators had animal assets?
+- [AnimaSim](https://github.com/danwahl/animasim): what if simulators had animal assets?
 - [Coop D'etat](https://coop-detat.danwahl.net/): what if we save the chickens?
 - [CadQueryEval](/cadqueryeval): how good are LLMs at CAD?
 - [SpeciEval](/specieval): what do LLMs think of animals?
@@ -18,18 +18,6 @@ layout: home
 - [XKCD Color Picker](/pages/xkcd-color-picker): what color is that?
 - [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): how is your air?
 - [LinkedIn Matching](/pages/linkedin-matching): who works at companies that match donations?
-
-### "Writing"
-
-- [The Ones Who Stay in Omelas](/pages/the-ones-who-stay-in-omelas): 2026
-- [The Odyssey 2](/pages/the-odyssey-2): 2026
-- [St. Peter](/pages/st-peter): 2026
-- [You Probably Shouldn't Eat Animals](https://www.amazon.com/dp/B0FQQFDRVT): 2025
-- [By AI, For AI](https://byaiforai.substack.com/): 2025–Present
-- [Winston Churchill and the Great Acceleration](pages/Winston_Churchill_and_the_Great_Acceleration): 2025
-- [Alison Wonderland](/alison-wonderland): 2024
-- [Twitter](https://x.com/fakedrwahl): 2009–2024
-- [Blog](/blog): 2016–2022
 
 ### Work clients[^1]
 
@@ -56,12 +44,23 @@ layout: home
 - [Life Mix](/pages/life-mix): 1984–Present
 - [cherry valley demos](/pages/cherry-valley-demos): 2011
 
+### "Writing"
+
+- [The Ones Who Stay in Omelas](/pages/the-ones-who-stay-in-omelas): 2026
+- [The Odyssey 2](/pages/the-odyssey-2): 2026
+- [St. Peter](/pages/st-peter): 2026
+- [You Probably Shouldn't Eat Animals](https://www.amazon.com/dp/B0FQQFDRVT): 2025
+- [By AI, For AI](https://byaiforai.substack.com/): 2025–Present
+- [Winston Churchill and the Great Acceleration](pages/Winston_Churchill_and_the_Great_Acceleration): 2025
+- [Alison Wonderland](/alison-wonderland): 2024
+- [Twitter](https://x.com/fakedrwahl): 2009–2024
+- [Blog](/blog): 2016–2022
+
 ### Misc.
 
-- [AC10 Podcast](/ac10-podcast)
-- [Date Me](/pages/date-me)
 - [Merch](/pages/merch)
 - [Resume](/assets/images/about/drwahl-resume.pdf)
+- [Date Me](/pages/date-me)
 
 ### Stay in touch
 
