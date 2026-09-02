@@ -46,6 +46,7 @@ layout: home
 
 ### "Writing"
 
+- [Free as in Air](/pages/free-as-in-air): 2026
 - [The Ones Who Stay in Omelas](/pages/the-ones-who-stay-in-omelas): 2026
 - [The Odyssey 2](/pages/the-odyssey-2): 2026
 - [St. Peter](/pages/st-peter): 2026
