@@ -6,6 +6,7 @@ layout: home
 
 ### Recent projects
 
+- [Learning Lab](/pages/learning-lab): 2026
 - [AnimaSim](https://github.com/danwahl/animasim): 2026
 - [Coop D'etat](https://coop-detat.danwahl.net/): 2026
 - [SpeciEval](/specieval): 2025–Present
@@ -31,11 +32,11 @@ layout: home
 
 ### Altruistic stuff[^2]
 
-- [FarmKind](https://www.farmkind.giving/): 2025–Present
 - [Lead Exposure Elimination Project](https://leadelimination.org/): 2020–Present
 - [Donations](https://docs.google.com/spreadsheets/d/e/2PACX-1vTb21bp3mWFiWo3KQgGVpEVgP5UdZDdvFhQHHbYlEcD1qnTVK1DNJGGHMvTroZ6Wdh4EjQRGMGYM6Ai/pubhtml?gid=1755635332&single=true): 2011–Present
+- [FarmKind](https://www.farmkind.giving/): 2025–2026
 - [Unblessed.org](https://unblessed.org): 2025
-- [Animal Welfare Dashboard](https://animal-welfare-dashboard.streamlit.app/): 2024
+- [Animal Welfare Dashboard](https://animal-welfare-dashboard.streamlit.app/): 2024–2025
 
 ### Music
 
@@ -58,9 +59,9 @@ layout: home
 
 ### Misc.
 
-- [Merch](/pages/merch)
-- [Resume](/assets/images/about/drwahl-resume.pdf)
-- [Date Me](/pages/date-me)
+- [Merch](/pages/merch): 2024–Present
+- [Resume](/assets/images/about/drwahl-resume.pdf): 2005–Present
+- [Date Me](/pages/date-me): 2022–2023
 
 ### Stay in touch
 
