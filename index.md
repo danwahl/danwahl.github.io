@@ -6,18 +6,17 @@ layout: home
 
 ### Recent projects
 
-- [AnimaSim](https://github.com/danwahl/animasim): what if simulators had animal assets?
-- [Coop D'etat](https://coop-detat.danwahl.net/): what if we save the chickens?
-- [CadQueryEval](/cadqueryeval): how good are LLMs at CAD?
-- [SpeciEval](/specieval): what do LLMs think of animals?
-- [A-Fantasia Benchmark](/afantasia): which LLMs have aphantasia?
-- [OpenRouter Pareto](https://openrouter-pareto.streamlit.app/): which LLMs do people use the most?
-- [2tpg](https://huggingface.co/drwahl/2tpg): what if you predict the previous token?
-- [Schelling Out](https://schelling-out.streamlit.app/): where should we all live?
-- [Paper Match](https://papermat.ch/): what if dating apps were pay-per-match?
-- [XKCD Color Picker](/pages/xkcd-color-picker): what color is that?
-- [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): how breathable is your air?
-- [LinkedIn Matching](/pages/linkedin-matching): who works at companies that match donations?
+- [AnimaSim](https://github.com/danwahl/animasim): 2026
+- [Coop D'etat](https://coop-detat.danwahl.net/): 2026
+- [SpeciEval](/specieval): 2025–Present
+- [A-Fantasia Benchmark](/afantasia): 2025–Present
+- [OpenRouter Pareto](https://openrouter-pareto.streamlit.app/): 2025–2026
+- [2tpg](https://huggingface.co/drwahl/2tpg): 2025
+- [Paper Match](https://papermat.ch/): 2023–2024
+- [XKCD Color Picker](/pages/xkcd-color-picker): 2023
+- [Schelling Out](https://schelling-out.streamlit.app/): 2022–2025
+- [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): 2022–Present
+- [LinkedIn Matching](/pages/linkedin-matching): 2021–2022
 
 ### Work clients[^1]
 
