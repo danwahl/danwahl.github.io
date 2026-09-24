@@ -25,7 +25,7 @@ layout: home
 - [Globus Medical](https://www.globusmedical.com/musculoskeletal-solutions/excelsiustechnology/): 2025–Present
 - [PickNik Robotics](https://picknik.ai/): 2024–Present
 - [Outrider](https://www.outrider.ai/): 2018–Present
-- [HDT Robotics](https://www.hdtrobotics.com/): 2010–Present
+- [BLADE Robotics](https://www.bladedefenseco.com/): 2010–Present
 - [University of Chicago DSI](https://datascience.uchicago.edu/): 2025
 - [AppHarvest](https://en.wikipedia.org/wiki/AppHarvest): 2022
 - [Ilumexico](https://ilumexico.mx/):  2019–2020
