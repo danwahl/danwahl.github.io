@@ -9,10 +9,10 @@ layout: home
 - [Learning Lab](/pages/learning-lab): 2026
 - [AnimaSim](https://github.com/danwahl/animasim): 2026
 - [Coop D'etat](https://coop-detat.danwahl.net/): 2026
+- [Antigravity CLI MCP](https://github.com/danwahl/antigravity-cli-mcp): 2026
 - [SpeciEval](/specieval): 2025–Present
 - [A-Fantasia Benchmark](/afantasia): 2025–Present
 - [CadQueryEval](/cadqueryeval): 2026
-- [OpenRouter Pareto](https://openrouter-pareto.streamlit.app/): 2025–2026
 - [2tpg](https://huggingface.co/drwahl/2tpg): 2025
 - [Paper Match](https://papermat.ch/): 2023–2024
 - [XKCD Color Picker](/pages/xkcd-color-picker): 2023
