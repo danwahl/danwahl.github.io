@@ -19,7 +19,7 @@ layout: home
 - [XKCD Color Picker](/pages/xkcd-color-picker): 2023
 - [Schelling Out](https://schelling-out.streamlit.app/): 2022–2025
 - [Adanet CO₂ Monitor](https://github.com/danwahl/adanet-co2-monitor): 2022–Present
-- [LinkedIn Matching](/pages/linkedin-matching): 2021–2022
+- [LinkedIn Matching](/pages/linkedin-matching): 2021–2026
 
 ### Work clients[^1]
 
@@ -38,7 +38,7 @@ layout: home
 - [Donations](https://docs.google.com/spreadsheets/d/e/2PACX-1vTb21bp3mWFiWo3KQgGVpEVgP5UdZDdvFhQHHbYlEcD1qnTVK1DNJGGHMvTroZ6Wdh4EjQRGMGYM6Ai/pubhtml?gid=1755635332&single=true): 2011–Present
 - [FarmKind](https://www.farmkind.giving/): 2025–2026
 - [Unblessed.org](https://unblessed.org): 2025
-- [Animal Welfare Dashboard](https://animal-welfare-dashboard.streamlit.app/): 2024–2025
+- [Animal Welfare Dashboard](https://animal-welfare-dashboard.streamlit.app/): 2024–2026
 
 ### Music
 
