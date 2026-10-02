@@ -10,7 +10,7 @@ layout: home
 - [AnimaSim](https://github.com/danwahl/animasim): 2026
 - [Coop D'etat](https://coop-detat.danwahl.net/): 2026
 - [Antigravity CLI MCP](https://www.npmjs.com/package/@danwahl/antigravity-cli-mcp): 2026
-- [Claude Chroma MCP](https://pypi.org/project/claude-chroma/): 2026
+- [Claude Chroma](https://pypi.org/project/claude-chroma/): 2026
 - [SpeciEval](/specieval): 2025–Present
 - [A-Fantasia Benchmark](/afantasia): 2025–Present
 - [CadQueryEval](/cadqueryeval): 2026
