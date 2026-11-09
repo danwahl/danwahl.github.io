@@ -6,6 +6,7 @@ layout: home
 
 ### Recent projects
 
+- [SO101 Block Stack Eval](/so101-block-stack-eval): 2026
 - [Learning Lab](/pages/learning-lab): 2026
 - [AnimaSim](https://github.com/danwahl/animasim): 2026
 - [Coop D'etat](https://coop-detat.danwahl.net/): 2026
